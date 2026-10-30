@@ -1,0 +1,13 @@
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Fichiers Python générés
+__pycache__/
+*.py[cod]
+
+# Configuration d'éditeurs et fichiers locaux
+.vscode/
+.idea/
+.DS_Store
