@@ -6,12 +6,12 @@ Les algorithmes acceptent une fonction Python `f(x)` définie par l'utilisateur.
 
 ## Fichiers
 
-- `algorithme_newton.py` : méthode de Newton avec Hessienne numérique et recherche linéaire.
-- `algorithme_quasi_newton.py` : BFGS avec approximation de la Hessienne inverse.
-- `algorithme_pas_fixe.py` : descente de gradient avec pas constant.
-- `algorithme_pas_conjugue.py` : gradient conjugué non linéaire Fletcher-Reeves.
-- `optimisation_utils.py` : dérivées numériques et opérations vectorielles communes.
-- `interface_console.py` : menu interactif pour lancer les exemples ou saisir une expression.
+- `Devoir/algorithme_newton.py` : méthode de Newton avec Hessienne numérique et recherche linéaire.
+- `Devoir/algorithme_quasi_newton.py` : BFGS avec approximation de la Hessienne inverse.
+- `Devoir/algorithme_pas_fixe.py` : descente de gradient avec pas constant.
+- `Devoir/algorithme_pas_conjugue.py` : gradient conjugué non linéaire Fletcher-Reeves.
+- `Devoir/optimisation_utils.py` : dérivées numériques et opérations vectorielles communes.
+- `Devoir/interface_console.py` : menu interactif pour lancer les exemples ou saisir une expression.
 
 ## Installation et lancement
 
@@ -21,8 +21,11 @@ Python 3.10 ou plus récent est recommandé
 python3 -m venv .venv
 source .venv/bin/activate       # Linux / macOS
 # Sous Windows PowerShell : .venv\Scripts\Activate.ps1
+cd Devoir
 python interface_console.py
 ```
+
+Depuis la racine du projet, vous pouvez aussi lancer `python -m Devoir.interface_console`.
 
 L'environnement `.venv/` est ignoré par Git. Il ne contient pas de dépendances à installer. Après l'avoir créé et activé, choisissez un algorithme, puis l'exemple ou la saisie personnalisée. L'exemple du menu est `x**2 + 4*cos(x)` avec `x0 = -1`.
 
@@ -49,7 +52,7 @@ L'interface interprète uniquement ces opérateurs, fonctions, constantes et var
 Chaque méthode est une fonction importable. Exemple :
 
 ```python
-from algorithme_newton import newton
+from Devoir.algorithme_newton import newton
 
 def f(x):
     return x**2 + 4 * math.cos(x)
@@ -61,7 +64,7 @@ print(resultat["x"], resultat["f_x"], resultat["converged"])
 Ajoutez `import math` si votre fonction Python utilise les fonctions trigonométriques. Pour une fonction de deux variables, elle reçoit une liste :
 
 ```python
-from algorithme_quasi_newton import quasi_newton
+from Devoir.algorithme_quasi_newton import quasi_newton
 
 def f(x):
     x1, x2 = x
