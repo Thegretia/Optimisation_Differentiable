@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "optimisation"
+version = "1.0.0"
+description = "Newton, quasi-Newton (BFGS), descentes de gradient et gradient conjugué, avec algèbre linéaire faite maison"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["numpy", "sympy"]
+
+[tool.setuptools]
+packages = ["optimisation"]
