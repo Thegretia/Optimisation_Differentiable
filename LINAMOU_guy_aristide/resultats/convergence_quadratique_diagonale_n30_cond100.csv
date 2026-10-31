@@ -1,0 +1,1262 @@
+methode,iteration,f_moins_f_etoile,norme_gradient_carre
+Gradient à pas fixe,0,1.023107e+00,3.000000e+01
+Gradient à pas fixe,1,7.260774e-01,1.027049e+01
+Gradient à pas fixe,2,6.243894e-01,6.319596e+00
+Gradient à pas fixe,3,5.618191e-01,4.622357e+00
+Gradient à pas fixe,4,5.160532e-01,3.676019e+00
+Gradient à pas fixe,5,4.796570e-01,3.070755e+00
+Gradient à pas fixe,6,4.492535e-01,2.648954e+00
+Gradient à pas fixe,7,4.230262e-01,2.337079e+00
+Gradient à pas fixe,8,3.998868e-01,2.096212e+00
+Gradient à pas fixe,9,3.791322e-01,1.903835e+00
+Gradient à pas fixe,10,3.602824e-01,1.746021e+00
+Gradient à pas fixe,11,3.429950e-01,1.613700e+00
+Gradient à pas fixe,12,3.270178e-01,1.500713e+00
+Gradient à pas fixe,13,3.121593e-01,1.402739e+00
+Gradient à pas fixe,14,2.982708e-01,1.316656e+00
+Gradient à pas fixe,15,2.852346e-01,1.240159e+00
+Gradient à pas fixe,16,2.729558e-01,1.171507e+00
+Gradient à pas fixe,17,2.613567e-01,1.109365e+00
+Gradient à pas fixe,18,2.503729e-01,1.052694e+00
+Gradient à pas fixe,19,2.399502e-01,1.000671e+00
+Gradient à pas fixe,20,2.300425e-01,9.526417e-01
+Gradient à pas fixe,21,2.206104e-01,9.080745e-01
+Gradient à pas fixe,22,2.116196e-01,8.665372e-01
+Gradient à pas fixe,23,2.030400e-01,8.276740e-01
+Gradient à pas fixe,24,1.948452e-01,7.911893e-01
+Gradient à pas fixe,25,1.870117e-01,7.568359e-01
+Gradient à pas fixe,26,1.795182e-01,7.244050e-01
+Gradient à pas fixe,27,1.723459e-01,6.937197e-01
+Gradient à pas fixe,28,1.654774e-01,6.646283e-01
+Gradient à pas fixe,29,1.588969e-01,6.370003e-01
+Gradient à pas fixe,30,1.525900e-01,6.107223e-01
+Gradient à pas fixe,31,1.465432e-01,5.856955e-01
+Gradient à pas fixe,32,1.407443e-01,5.618329e-01
+Gradient à pas fixe,33,1.351816e-01,5.390576e-01
+Gradient à pas fixe,34,1.298444e-01,5.173011e-01
+Gradient à pas fixe,35,1.247226e-01,4.965020e-01
+Gradient à pas fixe,36,1.198067e-01,4.766052e-01
+Gradient à pas fixe,37,1.150879e-01,4.575606e-01
+Gradient à pas fixe,38,1.105576e-01,4.393226e-01
+Gradient à pas fixe,39,1.062078e-01,4.218495e-01
+Gradient à pas fixe,40,1.020311e-01,4.051029e-01
+Gradient à pas fixe,41,9.802017e-02,3.890474e-01
+Gradient à pas fixe,42,9.416822e-02,3.736501e-01
+Gradient à pas fixe,43,9.046871e-02,3.588803e-01
+Gradient à pas fixe,44,8.691544e-02,3.447095e-01
+Gradient à pas fixe,45,8.350248e-02,3.311108e-01
+Gradient à pas fixe,46,8.022415e-02,3.180591e-01
+Gradient à pas fixe,47,7.707505e-02,3.055306e-01
+Gradient à pas fixe,48,7.405000e-02,2.935029e-01
+Gradient à pas fixe,49,7.114403e-02,2.819547e-01
+Gradient à pas fixe,50,6.835240e-02,2.708659e-01
+Gradient à pas fixe,51,6.567056e-02,2.602174e-01
+Gradient à pas fixe,52,6.309415e-02,2.499911e-01
+Gradient à pas fixe,53,6.061899e-02,2.401695e-01
+Gradient à pas fixe,54,5.824107e-02,2.307363e-01
+Gradient à pas fixe,55,5.595655e-02,2.216755e-01
+Gradient à pas fixe,56,5.376175e-02,2.129723e-01
+Gradient à pas fixe,57,5.165311e-02,2.046122e-01
+Gradient à pas fixe,58,4.962725e-02,1.965813e-01
+Gradient à pas fixe,59,4.768090e-02,1.888667e-01
+Gradient à pas fixe,60,4.581093e-02,1.814556e-01
+Gradient à pas fixe,61,4.401434e-02,1.743360e-01
+Gradient à pas fixe,62,4.228824e-02,1.674964e-01
+Gradient à pas fixe,63,4.062986e-02,1.609255e-01
+Gradient à pas fixe,64,3.903654e-02,1.546128e-01
+Gradient à pas fixe,65,3.750572e-02,1.485480e-01
+Gradient à pas fixe,66,3.603495e-02,1.427214e-01
+Gradient à pas fixe,67,3.462186e-02,1.371236e-01
+Gradient à pas fixe,68,3.326420e-02,1.317455e-01
+Gradient à pas fixe,69,3.195979e-02,1.265785e-01
+Gradient à pas fixe,70,3.070654e-02,1.216143e-01
+Gradient à pas fixe,71,2.950244e-02,1.168448e-01
+Gradient à pas fixe,72,2.834556e-02,1.122626e-01
+Gradient à pas fixe,73,2.723405e-02,1.078601e-01
+Gradient à pas fixe,74,2.616613e-02,1.036303e-01
+Gradient à pas fixe,75,2.514009e-02,9.956638e-02
+Gradient à pas fixe,76,2.415428e-02,9.566192e-02
+Gradient à pas fixe,77,2.320713e-02,9.191060e-02
+Gradient à pas fixe,78,2.229713e-02,8.830642e-02
+Gradient à pas fixe,79,2.142281e-02,8.484360e-02
+Gradient à pas fixe,80,2.058277e-02,8.151659e-02
+Gradient à pas fixe,81,1.977567e-02,7.832007e-02
+Gradient à pas fixe,82,1.900023e-02,7.524890e-02
+Gradient à pas fixe,83,1.825519e-02,7.229817e-02
+Gradient à pas fixe,84,1.753937e-02,6.946316e-02
+Gradient à pas fixe,85,1.685161e-02,6.673933e-02
+Gradient à pas fixe,86,1.619083e-02,6.412231e-02
+Gradient à pas fixe,87,1.555595e-02,6.160792e-02
+Gradient à pas fixe,88,1.494597e-02,5.919213e-02
+Gradient à pas fixe,89,1.435991e-02,5.687107e-02
+Gradient à pas fixe,90,1.379683e-02,5.464103e-02
+Gradient à pas fixe,91,1.325583e-02,5.249844e-02
+Gradient à pas fixe,92,1.273605e-02,5.043986e-02
+Gradient à pas fixe,93,1.223664e-02,4.846201e-02
+Gradient à pas fixe,94,1.175682e-02,4.656171e-02
+Gradient à pas fixe,95,1.129581e-02,4.473593e-02
+Gradient à pas fixe,96,1.085288e-02,4.298175e-02
+Gradient à pas fixe,97,1.042732e-02,4.129635e-02
+Gradient à pas fixe,98,1.001845e-02,3.967704e-02
+Gradient à pas fixe,99,9.625604e-03,3.812122e-02
+Gradient à pas fixe,100,9.248166e-03,3.662642e-02
+Gradient à pas fixe,101,8.885528e-03,3.519022e-02
+Gradient à pas fixe,102,8.537110e-03,3.381035e-02
+Gradient à pas fixe,103,8.202354e-03,3.248458e-02
+Gradient à pas fixe,104,7.880724e-03,3.121080e-02
+Gradient à pas fixe,105,7.571707e-03,2.998696e-02
+Gradient à pas fixe,106,7.274806e-03,2.881112e-02
+Gradient à pas fixe,107,6.989547e-03,2.768138e-02
+Gradient à pas fixe,108,6.715474e-03,2.659594e-02
+Gradient à pas fixe,109,6.452148e-03,2.555307e-02
+Gradient à pas fixe,110,6.199148e-03,2.455108e-02
+Gradient à pas fixe,111,5.956068e-03,2.358839e-02
+Gradient à pas fixe,112,5.722519e-03,2.266344e-02
+Gradient à pas fixe,113,5.498129e-03,2.177477e-02
+Gradient à pas fixe,114,5.282537e-03,2.092094e-02
+Gradient à pas fixe,115,5.075399e-03,2.010059e-02
+Gradient à pas fixe,116,4.876383e-03,1.931241e-02
+Gradient à pas fixe,117,4.685171e-03,1.855513e-02
+Gradient à pas fixe,118,4.501457e-03,1.782755e-02
+Gradient à pas fixe,119,4.324946e-03,1.712850e-02
+Gradient à pas fixe,120,4.155357e-03,1.645686e-02
+Gradient à pas fixe,121,3.992418e-03,1.581156e-02
+Gradient à pas fixe,122,3.835868e-03,1.519156e-02
+Gradient à pas fixe,123,3.685457e-03,1.459587e-02
+Gradient à pas fixe,124,3.540943e-03,1.402354e-02
+Gradient à pas fixe,125,3.402096e-03,1.347365e-02
+Gradient à pas fixe,126,3.268694e-03,1.294532e-02
+Gradient à pas fixe,127,3.140522e-03,1.243771e-02
+Gradient à pas fixe,128,3.017377e-03,1.195001e-02
+Gradient à pas fixe,129,2.899060e-03,1.148142e-02
+Gradient à pas fixe,130,2.785382e-03,1.103122e-02
+Gradient à pas fixe,131,2.676162e-03,1.059866e-02
+Gradient à pas fixe,132,2.571225e-03,1.018307e-02
+Gradient à pas fixe,133,2.470402e-03,9.783772e-03
+Gradient à pas fixe,134,2.373533e-03,9.400133e-03
+Gradient à pas fixe,135,2.280463e-03,9.031536e-03
+Gradient à pas fixe,136,2.191042e-03,8.677393e-03
+Gradient à pas fixe,137,2.105127e-03,8.337136e-03
+Gradient à pas fixe,138,2.022581e-03,8.010222e-03
+Gradient à pas fixe,139,1.943272e-03,7.696126e-03
+Gradient à pas fixe,140,1.867073e-03,7.394347e-03
+Gradient à pas fixe,141,1.793861e-03,7.104401e-03
+Gradient à pas fixe,142,1.723521e-03,6.825824e-03
+Gradient à pas fixe,143,1.655938e-03,6.558171e-03
+Gradient à pas fixe,144,1.591006e-03,6.301013e-03
+Gradient à pas fixe,145,1.528620e-03,6.053939e-03
+Gradient à pas fixe,146,1.468680e-03,5.816553e-03
+Gradient à pas fixe,147,1.411090e-03,5.588475e-03
+Gradient à pas fixe,148,1.355759e-03,5.369341e-03
+Gradient à pas fixe,149,1.302597e-03,5.158799e-03
+Gradient à pas fixe,150,1.251520e-03,4.956513e-03
+Gradient à pas fixe,151,1.202445e-03,4.762159e-03
+Gradient à pas fixe,152,1.155295e-03,4.575426e-03
+Gradient à pas fixe,153,1.109994e-03,4.396015e-03
+Gradient à pas fixe,154,1.066469e-03,4.223639e-03
+Gradient à pas fixe,155,1.024651e-03,4.058022e-03
+Gradient à pas fixe,156,9.844722e-04,3.898900e-03
+Gradient à pas fixe,157,9.458693e-04,3.746017e-03
+Gradient à pas fixe,158,9.087800e-04,3.599129e-03
+Gradient à pas fixe,159,8.731451e-04,3.458000e-03
+Gradient à pas fixe,160,8.389074e-04,3.322406e-03
+Gradient à pas fixe,161,8.060123e-04,3.192128e-03
+Gradient à pas fixe,162,7.744071e-04,3.066959e-03
+Gradient à pas fixe,163,7.440412e-04,2.946698e-03
+Gradient à pas fixe,164,7.148659e-04,2.831152e-03
+Gradient à pas fixe,165,6.868347e-04,2.720138e-03
+Gradient à pas fixe,166,6.599027e-04,2.613476e-03
+Gradient à pas fixe,167,6.340267e-04,2.510997e-03
+Gradient à pas fixe,168,6.091653e-04,2.412536e-03
+Gradient à pas fixe,169,5.852788e-04,2.317936e-03
+Gradient à pas fixe,170,5.623290e-04,2.227045e-03
+Gradient à pas fixe,171,5.402790e-04,2.139719e-03
+Gradient à pas fixe,172,5.190937e-04,2.055817e-03
+Gradient à pas fixe,173,4.987391e-04,1.975204e-03
+Gradient à pas fixe,174,4.791826e-04,1.897753e-03
+Gradient à pas fixe,175,4.603929e-04,1.823338e-03
+Gradient à pas fixe,176,4.423401e-04,1.751842e-03
+Gradient à pas fixe,177,4.249951e-04,1.683149e-03
+Gradient à pas fixe,178,4.083303e-04,1.617150e-03
+Gradient à pas fixe,179,3.923189e-04,1.553738e-03
+Gradient à pas fixe,180,3.769354e-04,1.492813e-03
+Gradient à pas fixe,181,3.621550e-04,1.434277e-03
+Gradient à pas fixe,182,3.479543e-04,1.378037e-03
+Gradient à pas fixe,183,3.343103e-04,1.324001e-03
+Gradient à pas fixe,184,3.212014e-04,1.272085e-03
+Gradient à pas fixe,185,3.086065e-04,1.222204e-03
+Gradient à pas fixe,186,2.965055e-04,1.174279e-03
+Gradient à pas fixe,187,2.848790e-04,1.128233e-03
+Gradient à pas fixe,188,2.737083e-04,1.083993e-03
+Gradient à pas fixe,189,2.629757e-04,1.041488e-03
+Gradient à pas fixe,190,2.526640e-04,1.000649e-03
+Gradient à pas fixe,191,2.427565e-04,9.614120e-04
+Gradient à pas fixe,192,2.332376e-04,9.237133e-04
+Gradient à pas fixe,193,2.240919e-04,8.874928e-04
+Gradient à pas fixe,194,2.153049e-04,8.526926e-04
+Gradient à pas fixe,195,2.068624e-04,8.192569e-04
+Gradient à pas fixe,196,1.987509e-04,7.871323e-04
+Gradient à pas fixe,197,1.909575e-04,7.562674e-04
+Gradient à pas fixe,198,1.834697e-04,7.266128e-04
+Gradient à pas fixe,199,1.762755e-04,6.981210e-04
+Gradient à pas fixe,200,1.693635e-04,6.707464e-04
+Gradient à pas fixe,201,1.627224e-04,6.444452e-04
+Gradient à pas fixe,202,1.563418e-04,6.191753e-04
+Gradient à pas fixe,203,1.502113e-04,5.948963e-04
+Gradient à pas fixe,204,1.443212e-04,5.715693e-04
+Gradient à pas fixe,205,1.386621e-04,5.491570e-04
+Gradient à pas fixe,206,1.332249e-04,5.276235e-04
+Gradient à pas fixe,207,1.280010e-04,5.069345e-04
+Gradient à pas fixe,208,1.229818e-04,4.870566e-04
+Gradient à pas fixe,209,1.181595e-04,4.679582e-04
+Gradient à pas fixe,210,1.135262e-04,4.496087e-04
+Gradient à pas fixe,211,1.090746e-04,4.319787e-04
+Gradient à pas fixe,212,1.047976e-04,4.150401e-04
+Gradient à pas fixe,213,1.006883e-04,3.987656e-04
+Gradient à pas fixe,214,9.674013e-05,3.831292e-04
+Gradient à pas fixe,215,9.294678e-05,3.681060e-04
+Gradient à pas fixe,216,8.930216e-05,3.536719e-04
+Gradient à pas fixe,217,8.580046e-05,3.398038e-04
+Gradient à pas fixe,218,8.243607e-05,3.264795e-04
+Gradient à pas fixe,219,7.920360e-05,3.136776e-04
+Gradient à pas fixe,220,7.609788e-05,3.013777e-04
+Gradient à pas fixe,221,7.311394e-05,2.895602e-04
+Gradient à pas fixe,222,7.024701e-05,2.782060e-04
+Gradient à pas fixe,223,6.749249e-05,2.672970e-04
+Gradient à pas fixe,224,6.484599e-05,2.568158e-04
+Gradient à pas fixe,225,6.230326e-05,2.467456e-04
+Gradient à pas fixe,226,5.986023e-05,2.370702e-04
+Gradient à pas fixe,227,5.751300e-05,2.277743e-04
+Gradient à pas fixe,228,5.525781e-05,2.188428e-04
+Gradient à pas fixe,229,5.309105e-05,2.102616e-04
+Gradient à pas fixe,230,5.100925e-05,2.020168e-04
+Gradient à pas fixe,231,4.900909e-05,1.940954e-04
+Gradient à pas fixe,232,4.708735e-05,1.864845e-04
+Gradient à pas fixe,233,4.524097e-05,1.791721e-04
+Gradient à pas fixe,234,4.346699e-05,1.721465e-04
+Gradient à pas fixe,235,4.176256e-05,1.653963e-04
+Gradient à pas fixe,236,4.012498e-05,1.589108e-04
+Gradient à pas fixe,237,3.855160e-05,1.526796e-04
+Gradient à pas fixe,238,3.703992e-05,1.466928e-04
+Gradient à pas fixe,239,3.558752e-05,1.409407e-04
+Gradient à pas fixe,240,3.419207e-05,1.354141e-04
+Gradient à pas fixe,241,3.285133e-05,1.301043e-04
+Gradient à pas fixe,242,3.156317e-05,1.250027e-04
+Gradient à pas fixe,243,3.032552e-05,1.201011e-04
+Gradient à pas fixe,244,2.913640e-05,1.153917e-04
+Gradient à pas fixe,245,2.799391e-05,1.108670e-04
+Gradient à pas fixe,246,2.689622e-05,1.065197e-04
+Gradient à pas fixe,247,2.584157e-05,1.023428e-04
+Gradient à pas fixe,248,2.482827e-05,9.832979e-05
+Gradient à pas fixe,249,2.385471e-05,9.447410e-05
+Gradient à pas fixe,250,2.291932e-05,9.076960e-05
+Gradient à pas fixe,251,2.202061e-05,8.721035e-05
+Gradient à pas fixe,252,2.115715e-05,8.379067e-05
+Gradient à pas fixe,253,2.032753e-05,8.050509e-05
+Gradient à pas fixe,254,1.953045e-05,7.734834e-05
+Gradient à pas fixe,255,1.876463e-05,7.431536e-05
+Gradient à pas fixe,256,1.802883e-05,7.140132e-05
+Gradient à pas fixe,257,1.732189e-05,6.860154e-05
+Gradient à pas fixe,258,1.664267e-05,6.591155e-05
+Gradient à pas fixe,259,1.599008e-05,6.332704e-05
+Gradient à pas fixe,260,1.536308e-05,6.084387e-05
+Gradient à pas fixe,261,1.476066e-05,5.845807e-05
+Gradient à pas fixe,262,1.418187e-05,5.616582e-05
+Gradient à pas fixe,263,1.362577e-05,5.396345e-05
+Gradient à pas fixe,264,1.309148e-05,5.184745e-05
+Gradient à pas fixe,265,1.257814e-05,4.981441e-05
+Gradient à pas fixe,266,1.208493e-05,4.786110e-05
+Gradient à pas fixe,267,1.161106e-05,4.598438e-05
+Gradient à pas fixe,268,1.115576e-05,4.418125e-05
+Gradient à pas fixe,269,1.071833e-05,4.244882e-05
+Gradient à pas fixe,270,1.029804e-05,4.078432e-05
+Gradient à pas fixe,271,9.894236e-06,3.918509e-05
+Gradient à pas fixe,272,9.506265e-06,3.764857e-05
+Gradient à pas fixe,273,9.133507e-06,3.617230e-05
+Gradient à pas fixe,274,8.775365e-06,3.475392e-05
+Gradient à pas fixe,275,8.431267e-06,3.339116e-05
+Gradient à pas fixe,276,8.100661e-06,3.208183e-05
+Gradient à pas fixe,277,7.783019e-06,3.082384e-05
+Gradient à pas fixe,278,7.477833e-06,2.961518e-05
+Gradient à pas fixe,279,7.184613e-06,2.845391e-05
+Gradient à pas fixe,280,6.902891e-06,2.733818e-05
+Gradient à pas fixe,281,6.632216e-06,2.626620e-05
+Gradient à pas fixe,282,6.372155e-06,2.523626e-05
+Gradient à pas fixe,283,6.122291e-06,2.424670e-05
+Gradient à pas fixe,284,5.882225e-06,2.329594e-05
+Gradient à pas fixe,285,5.651572e-06,2.238246e-05
+Gradient à pas fixe,286,5.429963e-06,2.150480e-05
+Gradient à pas fixe,287,5.217044e-06,2.066156e-05
+Gradient à pas fixe,288,5.012474e-06,1.985138e-05
+Gradient à pas fixe,289,4.815926e-06,1.907297e-05
+Gradient à pas fixe,290,4.627085e-06,1.832509e-05
+Gradient à pas fixe,291,4.445648e-06,1.760653e-05
+Gradient à pas fixe,292,4.271326e-06,1.691614e-05
+Gradient à pas fixe,293,4.103840e-06,1.625283e-05
+Gradient à pas fixe,294,3.942920e-06,1.561553e-05
+Gradient à pas fixe,295,3.788311e-06,1.500321e-05
+Gradient à pas fixe,296,3.639765e-06,1.441491e-05
+Gradient à pas fixe,297,3.497043e-06,1.384967e-05
+Gradient à pas fixe,298,3.359917e-06,1.330660e-05
+Gradient à pas fixe,299,3.228169e-06,1.278483e-05
+Gradient à pas fixe,300,3.101586e-06,1.228351e-05
+Gradient à pas fixe,301,2.979967e-06,1.180185e-05
+Gradient à pas fixe,302,2.863117e-06,1.133908e-05
+Gradient à pas fixe,303,2.750849e-06,1.089445e-05
+Gradient à pas fixe,304,2.642983e-06,1.046726e-05
+Gradient à pas fixe,305,2.539347e-06,1.005682e-05
+Gradient à pas fixe,306,2.439775e-06,9.662474e-06
+Gradient à pas fixe,307,2.344107e-06,9.283591e-06
+Gradient à pas fixe,308,2.252190e-06,8.919564e-06
+Gradient à pas fixe,309,2.163877e-06,8.569811e-06
+Gradient à pas fixe,310,2.079028e-06,8.233773e-06
+Gradient à pas fixe,311,1.997505e-06,7.910912e-06
+Gradient à pas fixe,312,1.919179e-06,7.600710e-06
+Gradient à pas fixe,313,1.843925e-06,7.302673e-06
+Gradient à pas fixe,314,1.771621e-06,7.016321e-06
+Gradient à pas fixe,315,1.702153e-06,6.741198e-06
+Gradient à pas fixe,316,1.635408e-06,6.476864e-06
+Gradient à pas fixe,317,1.571281e-06,6.222894e-06
+Gradient à pas fixe,318,1.509668e-06,5.978883e-06
+Gradient à pas fixe,319,1.450471e-06,5.744440e-06
+Gradient à pas fixe,320,1.393595e-06,5.519190e-06
+Gradient à pas fixe,321,1.338950e-06,5.302772e-06
+Gradient à pas fixe,322,1.286447e-06,5.094841e-06
+Gradient à pas fixe,323,1.236003e-06,4.895063e-06
+Gradient à pas fixe,324,1.187537e-06,4.703118e-06
+Gradient à pas fixe,325,1.140972e-06,4.518700e-06
+Gradient à pas fixe,326,1.096232e-06,4.341514e-06
+Gradient à pas fixe,327,1.053247e-06,4.171275e-06
+Gradient à pas fixe,328,1.011947e-06,4.007711e-06
+Gradient à pas fixe,329,9.722668e-07,3.850562e-06
+Gradient à pas fixe,330,9.341425e-07,3.699574e-06
+Gradient à pas fixe,331,8.975130e-07,3.554507e-06
+Gradient à pas fixe,332,8.623199e-07,3.415128e-06
+Gradient à pas fixe,333,8.285067e-07,3.281215e-06
+Gradient à pas fixe,334,7.960195e-07,3.152552e-06
+Gradient à pas fixe,335,7.648061e-07,3.028935e-06
+Gradient à pas fixe,336,7.348166e-07,2.910165e-06
+Gradient à pas fixe,337,7.060031e-07,2.796052e-06
+Gradient à pas fixe,338,6.783194e-07,2.686414e-06
+Gradient à pas fixe,339,6.517213e-07,2.581074e-06
+Gradient à pas fixe,340,6.261661e-07,2.479866e-06
+Gradient à pas fixe,341,6.016129e-07,2.382626e-06
+Gradient à pas fixe,342,5.780226e-07,2.289198e-06
+Gradient à pas fixe,343,5.553573e-07,2.199435e-06
+Gradient à pas fixe,344,5.335807e-07,2.113191e-06
+Gradient à pas fixe,345,5.126580e-07,2.030329e-06
+Gradient à pas fixe,346,4.925557e-07,1.950716e-06
+Gradient à pas fixe,347,4.732417e-07,1.874225e-06
+Gradient à pas fixe,348,4.546850e-07,1.800733e-06
+Gradient à pas fixe,349,4.368560e-07,1.730123e-06
+Gradient à pas fixe,350,4.197261e-07,1.662281e-06
+Gradient à pas fixe,351,4.032678e-07,1.597100e-06
+Gradient à pas fixe,352,3.874550e-07,1.534475e-06
+Gradient à pas fixe,353,3.722621e-07,1.474306e-06
+Gradient à pas fixe,354,3.576651e-07,1.416495e-06
+Gradient à pas fixe,355,3.436404e-07,1.360952e-06
+Gradient à pas fixe,356,3.301656e-07,1.307586e-06
+Gradient à pas fixe,357,3.172192e-07,1.256314e-06
+Gradient à pas fixe,358,3.047804e-07,1.207051e-06
+Gradient à pas fixe,359,2.928294e-07,1.159721e-06
+Gradient à pas fixe,360,2.813470e-07,1.114246e-06
+Gradient à pas fixe,361,2.703149e-07,1.070554e-06
+Gradient à pas fixe,362,2.597154e-07,1.028576e-06
+Gradient à pas fixe,363,2.495314e-07,9.882434e-07
+Gradient à pas fixe,364,2.397469e-07,9.494925e-07
+Gradient à pas fixe,365,2.303459e-07,9.122612e-07
+Gradient à pas fixe,366,2.213137e-07,8.764897e-07
+Gradient à pas fixe,367,2.126355e-07,8.421210e-07
+Gradient à pas fixe,368,2.042977e-07,8.090998e-07
+Gradient à pas fixe,369,1.962868e-07,7.773735e-07
+Gradient à pas fixe,370,1.885901e-07,7.468913e-07
+Gradient à pas fixe,371,1.811951e-07,7.176043e-07
+Gradient à pas fixe,372,1.740901e-07,6.894657e-07
+Gradient à pas fixe,373,1.672637e-07,6.624305e-07
+Gradient à pas fixe,374,1.607050e-07,6.364554e-07
+Gradient à pas fixe,375,1.544034e-07,6.114988e-07
+Gradient à pas fixe,376,1.483490e-07,5.875208e-07
+Gradient à pas fixe,377,1.425320e-07,5.644830e-07
+Gradient à pas fixe,378,1.369430e-07,5.423486e-07
+Gradient à pas fixe,379,1.315732e-07,5.210821e-07
+Gradient à pas fixe,380,1.264140e-07,5.006495e-07
+Gradient à pas fixe,381,1.214571e-07,4.810181e-07
+Gradient à pas fixe,382,1.166945e-07,4.621565e-07
+Gradient à pas fixe,383,1.121187e-07,4.440345e-07
+Gradient à pas fixe,384,1.077223e-07,4.266231e-07
+Gradient à pas fixe,385,1.034983e-07,4.098944e-07
+Gradient à pas fixe,386,9.943998e-08,3.938217e-07
+Gradient à pas fixe,387,9.554076e-08,3.783792e-07
+Gradient à pas fixe,388,9.179443e-08,3.635423e-07
+Gradient à pas fixe,389,8.819500e-08,3.492871e-07
+Gradient à pas fixe,390,8.473671e-08,3.355909e-07
+Gradient à pas fixe,391,8.141403e-08,3.224318e-07
+Gradient à pas fixe,392,7.822164e-08,3.097887e-07
+Gradient à pas fixe,393,7.515442e-08,2.976413e-07
+Gradient à pas fixe,394,7.220748e-08,2.859702e-07
+Gradient à pas fixe,395,6.937609e-08,2.747568e-07
+Gradient à pas fixe,396,6.665573e-08,2.639831e-07
+Gradient à pas fixe,397,6.404203e-08,2.536318e-07
+Gradient à pas fixe,398,6.153083e-08,2.436864e-07
+Gradient à pas fixe,399,5.911809e-08,2.341310e-07
+Gradient à pas fixe,400,5.679996e-08,2.249503e-07
+Gradient à pas fixe,401,5.457273e-08,2.161296e-07
+Gradient à pas fixe,402,5.243283e-08,2.076548e-07
+Gradient à pas fixe,403,5.037684e-08,1.995123e-07
+Gradient à pas fixe,404,4.840148e-08,1.916890e-07
+Gradient à pas fixe,405,4.650356e-08,1.841725e-07
+Gradient à pas fixe,406,4.468007e-08,1.769508e-07
+Gradient à pas fixe,407,4.292809e-08,1.700122e-07
+Gradient à pas fixe,408,4.124480e-08,1.633457e-07
+Gradient à pas fixe,409,3.962751e-08,1.569406e-07
+Gradient à pas fixe,410,3.807364e-08,1.507867e-07
+Gradient à pas fixe,411,3.658071e-08,1.448741e-07
+Gradient à pas fixe,412,3.514631e-08,1.391933e-07
+Gradient à pas fixe,413,3.376816e-08,1.337353e-07
+Gradient à pas fixe,414,3.244405e-08,1.284913e-07
+Gradient à pas fixe,415,3.117186e-08,1.234529e-07
+Gradient à pas fixe,416,2.994955e-08,1.186121e-07
+Gradient à pas fixe,417,2.877517e-08,1.139611e-07
+Gradient à pas fixe,418,2.764685e-08,1.094925e-07
+Gradient à pas fixe,419,2.656276e-08,1.051991e-07
+Gradient à pas fixe,420,2.552119e-08,1.010740e-07
+Gradient à pas fixe,421,2.452045e-08,9.711071e-08
+Gradient à pas fixe,422,2.355896e-08,9.330282e-08
+Gradient à pas fixe,423,2.263517e-08,8.964424e-08
+Gradient à pas fixe,424,2.174760e-08,8.612913e-08
+Gradient à pas fixe,425,2.089484e-08,8.275185e-08
+Gradient à pas fixe,426,2.007552e-08,7.950699e-08
+Gradient à pas fixe,427,1.928832e-08,7.638938e-08
+Gradient à pas fixe,428,1.853199e-08,7.339401e-08
+Gradient à pas fixe,429,1.780531e-08,7.051610e-08
+Gradient à pas fixe,430,1.710713e-08,6.775103e-08
+Gradient à pas fixe,431,1.643633e-08,6.509439e-08
+Gradient à pas fixe,432,1.579183e-08,6.254192e-08
+Gradient à pas fixe,433,1.517261e-08,6.008953e-08
+Gradient à pas fixe,434,1.457766e-08,5.773331e-08
+Gradient à pas fixe,435,1.400604e-08,5.546948e-08
+Gradient à pas fixe,436,1.345684e-08,5.329442e-08
+Gradient à pas fixe,437,1.292917e-08,5.120465e-08
+Gradient à pas fixe,438,1.242220e-08,4.919682e-08
+Gradient à pas fixe,439,1.193510e-08,4.726772e-08
+Gradient à pas fixe,440,1.146710e-08,4.541427e-08
+Gradient à pas fixe,441,1.101746e-08,4.363349e-08
+Gradient à pas fixe,442,1.058544e-08,4.192254e-08
+Gradient à pas fixe,443,1.017037e-08,4.027868e-08
+Gradient à pas fixe,444,9.771568e-09,3.869928e-08
+Gradient à pas fixe,445,9.388407e-09,3.718181e-08
+Gradient à pas fixe,446,9.020270e-09,3.572384e-08
+Gradient à pas fixe,447,8.666569e-09,3.432304e-08
+Gradient à pas fixe,448,8.326737e-09,3.297717e-08
+Gradient à pas fixe,449,8.000230e-09,3.168408e-08
+Gradient à pas fixe,450,7.686526e-09,3.044169e-08
+Gradient à pas fixe,451,7.385123e-09,2.924801e-08
+Gradient à pas fixe,452,7.095539e-09,2.810114e-08
+Gradient à pas fixe,453,6.817310e-09,2.699925e-08
+Gradient à pas fixe,454,6.549991e-09,2.594056e-08
+Gradient à pas fixe,455,6.293153e-09,2.492338e-08
+Gradient à pas fixe,456,6.046387e-09,2.394609e-08
+Gradient à pas fixe,457,5.809297e-09,2.300712e-08
+Gradient à pas fixe,458,5.581504e-09,2.210497e-08
+Gradient à pas fixe,459,5.362643e-09,2.123819e-08
+Gradient à pas fixe,460,5.152364e-09,2.040540e-08
+Gradient à pas fixe,461,4.950330e-09,1.960527e-08
+Gradient à pas fixe,462,4.756219e-09,1.883651e-08
+Gradient à pas fixe,463,4.569719e-09,1.809790e-08
+Gradient à pas fixe,464,4.390531e-09,1.738824e-08
+Gradient à pas fixe,465,4.218371e-09,1.670642e-08
+Gradient à pas fixe,466,4.052961e-09,1.605133e-08
+Gradient à pas fixe,467,3.894037e-09,1.542193e-08
+Gradient à pas fixe,468,3.741344e-09,1.481720e-08
+Gradient à pas fixe,469,3.594639e-09,1.423619e-08
+Gradient à pas fixe,470,3.453687e-09,1.367797e-08
+Gradient à pas fixe,471,3.318261e-09,1.314163e-08
+Gradient à pas fixe,472,3.188146e-09,1.262632e-08
+Gradient à pas fixe,473,3.063133e-09,1.213122e-08
+Gradient à pas fixe,474,2.943022e-09,1.165553e-08
+Gradient à pas fixe,475,2.827621e-09,1.119850e-08
+Gradient à pas fixe,476,2.716745e-09,1.075938e-08
+Gradient à pas fixe,477,2.610216e-09,1.033749e-08
+Gradient à pas fixe,478,2.507865e-09,9.932137e-09
+Gradient à pas fixe,479,2.409527e-09,9.542679e-09
+Gradient à pas fixe,480,2.315045e-09,9.168493e-09
+Gradient à pas fixe,481,2.224267e-09,8.808980e-09
+Gradient à pas fixe,482,2.137050e-09,8.463564e-09
+Gradient à pas fixe,483,2.053252e-09,8.131692e-09
+Gradient à pas fixe,484,1.972740e-09,7.812833e-09
+Gradient à pas fixe,485,1.895386e-09,7.506477e-09
+Gradient à pas fixe,486,1.821064e-09,7.212135e-09
+Gradient à pas fixe,487,1.749657e-09,6.929334e-09
+Gradient à pas fixe,488,1.681050e-09,6.657622e-09
+Gradient à pas fixe,489,1.615132e-09,6.396564e-09
+Gradient à pas fixe,490,1.551800e-09,6.145743e-09
+Gradient à pas fixe,491,1.490951e-09,5.904757e-09
+Gradient à pas fixe,492,1.432488e-09,5.673221e-09
+Gradient à pas fixe,493,1.376318e-09,5.450763e-09
+Gradient à pas fixe,494,1.322350e-09,5.237029e-09
+Gradient à pas fixe,495,1.270498e-09,5.031675e-09
+Gradient à pas fixe,496,1.220680e-09,4.834374e-09
+Gradient à pas fixe,497,1.172814e-09,4.644809e-09
+Gradient à pas fixe,498,1.126826e-09,4.462678e-09
+Gradient à pas fixe,499,1.082641e-09,4.287688e-09
+Gradient à pas fixe,500,1.040189e-09,4.119560e-09
+Gradient à pas fixe,501,9.994012e-10,3.958024e-09
+Gradient à pas fixe,502,9.602128e-10,3.802823e-09
+Gradient à pas fixe,503,9.225611e-10,3.653707e-09
+Gradient à pas fixe,504,8.863859e-10,3.510439e-09
+Gradient à pas fixe,505,8.516290e-10,3.372788e-09
+Gradient à pas fixe,506,8.182350e-10,3.240535e-09
+Gradient à pas fixe,507,7.861505e-10,3.113467e-09
+Gradient à pas fixe,508,7.553240e-10,2.991382e-09
+Gradient à pas fixe,509,7.257064e-10,2.874085e-09
+Gradient à pas fixe,510,6.972503e-10,2.761387e-09
+Gradient à pas fixe,511,6.699097e-10,2.653108e-09
+Gradient à pas fixe,512,6.436414e-10,2.549074e-09
+Gradient à pas fixe,513,6.184029e-10,2.449120e-09
+Gradient à pas fixe,514,5.941543e-10,2.353086e-09
+Gradient à pas fixe,515,5.708563e-10,2.260817e-09
+Gradient à pas fixe,516,5.484719e-10,2.172166e-09
+Gradient à pas fixe,517,5.269654e-10,2.086992e-09
+Gradient à pas fixe,518,5.063021e-10,2.005157e-09
+Gradient à pas fixe,519,4.864491e-10,1.926531e-09
+Gradient à pas fixe,520,4.673746e-10,1.850988e-09
+Gradient à pas fixe,521,4.490479e-10,1.778408e-09
+Gradient à pas fixe,522,4.314400e-10,1.708673e-09
+Gradient à pas fixe,523,4.145224e-10,1.641673e-09
+Gradient à pas fixe,524,3.982681e-10,1.577300e-09
+Gradient à pas fixe,525,3.826515e-10,1.515451e-09
+Gradient à pas fixe,526,3.676470e-10,1.456027e-09
+Gradient à pas fixe,527,3.532308e-10,1.398934e-09
+Gradient à pas fixe,528,3.393799e-10,1.344079e-09
+Gradient à pas fixe,529,3.260723e-10,1.291375e-09
+Gradient à pas fixe,530,3.132863e-10,1.240738e-09
+Gradient à pas fixe,531,3.010019e-10,1.192086e-09
+Gradient à pas fixe,532,2.891991e-10,1.145342e-09
+Gradient à pas fixe,533,2.778591e-10,1.100431e-09
+Gradient à pas fixe,534,2.669636e-10,1.057281e-09
+Gradient à pas fixe,535,2.564955e-10,1.015824e-09
+Gradient à pas fixe,536,2.464378e-10,9.759912e-10
+Gradient à pas fixe,537,2.367746e-10,9.377208e-10
+Gradient à pas fixe,538,2.274902e-10,9.009510e-10
+Gradient à pas fixe,539,2.185698e-10,8.656231e-10
+Gradient à pas fixe,540,2.099994e-10,8.316804e-10
+Gradient à pas fixe,541,2.017648e-10,7.990687e-10
+Gradient à pas fixe,542,1.938534e-10,7.677357e-10
+Gradient à pas fixe,543,1.862519e-10,7.376314e-10
+Gradient à pas fixe,544,1.789486e-10,7.087075e-10
+Gradient à pas fixe,545,1.719318e-10,6.809178e-10
+Gradient à pas fixe,546,1.651901e-10,6.542178e-10
+Gradient à pas fixe,547,1.587126e-10,6.285647e-10
+Gradient à pas fixe,548,1.524891e-10,6.039175e-10
+Gradient à pas fixe,549,1.465099e-10,5.802368e-10
+Gradient à pas fixe,550,1.407650e-10,5.574846e-10
+Gradient à pas fixe,551,1.352451e-10,5.356246e-10
+Gradient à pas fixe,552,1.299421e-10,5.146218e-10
+Gradient à pas fixe,553,1.248468e-10,4.944425e-10
+Gradient à pas fixe,554,1.199514e-10,4.750545e-10
+Gradient à pas fixe,555,1.152478e-10,4.564268e-10
+Gradient à pas fixe,556,1.107288e-10,4.385294e-10
+Gradient à pas fixe,557,1.063869e-10,4.213339e-10
+Gradient à pas fixe,558,1.022151e-10,4.048126e-10
+Gradient à pas fixe,559,9.820722e-11,3.889392e-10
+Gradient à pas fixe,560,9.435630e-11,3.736881e-10
+Gradient à pas fixe,561,9.065637e-11,3.590351e-10
+Gradient à pas fixe,562,8.710166e-11,3.449567e-10
+Gradient à pas fixe,563,8.368617e-11,3.314303e-10
+Gradient à pas fixe,564,8.040479e-11,3.184343e-10
+Gradient à pas fixe,565,7.725198e-11,3.059479e-10
+Gradient à pas fixe,566,7.422263e-11,2.939511e-10
+Gradient à pas fixe,567,7.131229e-11,2.824248e-10
+Gradient à pas fixe,568,6.851608e-11,2.713504e-10
+Gradient à pas fixe,569,6.582934e-11,2.607102e-10
+Gradient à pas fixe,570,6.324807e-11,2.504873e-10
+Gradient à pas fixe,571,6.076806e-11,2.406652e-10
+Gradient à pas fixe,572,5.838530e-11,2.312283e-10
+Gradient à pas fixe,573,5.609579e-11,2.221614e-10
+Gradient à pas fixe,574,5.389622e-11,2.134501e-10
+Gradient à pas fixe,575,5.178280e-11,2.050803e-10
+Gradient à pas fixe,576,4.975220e-11,1.970387e-10
+Gradient à pas fixe,577,4.780154e-11,1.893125e-10
+Gradient à pas fixe,578,4.592704e-11,1.818892e-10
+Gradient à pas fixe,579,4.412604e-11,1.747570e-10
+Gradient à pas fixe,580,4.239586e-11,1.679044e-10
+Gradient à pas fixe,581,4.073342e-11,1.613206e-10
+Gradient à pas fixe,582,3.913625e-11,1.549949e-10
+Gradient à pas fixe,583,3.760170e-11,1.489173e-10
+Gradient à pas fixe,584,3.612732e-11,1.430779e-10
+Gradient à pas fixe,585,3.471068e-11,1.374676e-10
+Gradient à pas fixe,586,3.334955e-11,1.320772e-10
+Gradient à pas fixe,587,3.204192e-11,1.268982e-10
+Gradient à pas fixe,588,3.078537e-11,1.219223e-10
+Gradient à pas fixe,589,2.957834e-11,1.171415e-10
+Gradient à pas fixe,590,2.841838e-11,1.125482e-10
+Gradient à pas fixe,591,2.730416e-11,1.081350e-10
+Gradient à pas fixe,592,2.623346e-11,1.038948e-10
+Gradient à pas fixe,593,2.520473e-11,9.982090e-11
+Gradient à pas fixe,594,2.421641e-11,9.590674e-11
+Gradient à pas fixe,595,2.326694e-11,9.214606e-11
+Gradient à pas fixe,596,2.235456e-11,8.853284e-11
+Gradient à pas fixe,597,2.147793e-11,8.506131e-11
+Gradient à pas fixe,598,2.063594e-11,8.172590e-11
+Gradient à pas fixe,599,1.982658e-11,7.852127e-11
+Gradient à pas fixe,600,1.904921e-11,7.544231e-11
+Gradient à pas fixe,601,1.830225e-11,7.248408e-11
+Gradient à pas fixe,602,1.758460e-11,6.964184e-11
+Gradient à pas fixe,603,1.689515e-11,6.691106e-11
+Gradient à pas fixe,604,1.623257e-11,6.428735e-11
+Gradient à pas fixe,605,1.559619e-11,6.176653e-11
+Gradient à pas fixe,606,1.498446e-11,5.934455e-11
+Gradient à pas fixe,607,1.439693e-11,5.701754e-11
+Gradient à pas fixe,608,1.383249e-11,5.478178e-11
+Gradient à pas fixe,609,1.329004e-11,5.263368e-11
+Gradient à pas fixe,610,1.276890e-11,5.056982e-11
+Gradient à pas fixe,611,1.226819e-11,4.858688e-11
+Gradient à pas fixe,612,1.178724e-11,4.668170e-11
+Gradient à pas fixe,613,1.132494e-11,4.485123e-11
+Gradient à pas fixe,614,1.088085e-11,4.309253e-11
+Gradient à pas fixe,615,1.045430e-11,4.140279e-11
+Gradient à pas fixe,616,1.004441e-11,3.977931e-11
+Gradient à pas fixe,617,9.650503e-12,3.821949e-11
+Gradient à pas fixe,618,9.272139e-12,3.672083e-11
+Gradient à pas fixe,619,8.908430e-12,3.528094e-11
+Gradient à pas fixe,620,8.559153e-12,3.389751e-11
+Gradient à pas fixe,621,8.223644e-12,3.256833e-11
+Gradient à pas fixe,622,7.901013e-12,3.129126e-11
+Gradient à pas fixe,623,7.591261e-12,3.006427e-11
+Gradient à pas fixe,624,7.293499e-12,2.888540e-11
+Gradient à pas fixe,625,7.007506e-12,2.775275e-11
+Gradient à pas fixe,626,6.732837e-12,2.666451e-11
+Gradient à pas fixe,627,6.468825e-12,2.561895e-11
+Gradient à pas fixe,628,6.215251e-12,2.461438e-11
+Gradient à pas fixe,629,5.971446e-12,2.364921e-11
+Gradient à pas fixe,630,5.737189e-12,2.272188e-11
+Gradient à pas fixe,631,5.512257e-12,2.183091e-11
+Gradient à pas fixe,632,5.296208e-12,2.097488e-11
+Gradient à pas fixe,633,5.088596e-12,2.015242e-11
+Gradient à pas fixe,634,4.888978e-12,1.936220e-11
+Gradient à pas fixe,635,4.697354e-12,1.860298e-11
+Gradient à pas fixe,636,4.513057e-12,1.787352e-11
+Gradient à pas fixe,637,4.336087e-12,1.717267e-11
+Gradient à pas fixe,638,4.166001e-12,1.649929e-11
+Gradient à pas fixe,639,4.002798e-12,1.585233e-11
+Gradient à pas fixe,640,3.845813e-12,1.523073e-11
+Gradient à pas fixe,641,3.695044e-12,1.463350e-11
+Gradient à pas fixe,642,3.550049e-12,1.405970e-11
+Gradient à pas fixe,643,3.410827e-12,1.350839e-11
+Gradient à pas fixe,644,3.277156e-12,1.297870e-11
+Gradient à pas fixe,645,3.148592e-12,1.246978e-11
+Gradient à pas fixe,646,3.025136e-12,1.198082e-11
+Gradient à pas fixe,647,2.906564e-12,1.151103e-11
+Gradient à pas fixe,648,2.792655e-12,1.105966e-11
+Gradient à pas fixe,649,2.683187e-12,1.062599e-11
+Gradient à pas fixe,650,2.577938e-12,1.020933e-11
+Gradient à pas fixe,651,2.476908e-12,9.808999e-12
+Gradient à pas fixe,652,2.379652e-12,9.424370e-12
+Gradient à pas fixe,653,2.286393e-12,9.054823e-12
+Gradient à pas fixe,654,2.196687e-12,8.699767e-12
+Gradient à pas fixe,655,2.110534e-12,8.358633e-12
+Gradient à pas fixe,656,2.027933e-12,8.030876e-12
+Gradient à pas fixe,657,1.948441e-12,7.715970e-12
+Gradient à pas fixe,658,1.871836e-12,7.413413e-12
+Gradient à pas fixe,659,1.798561e-12,7.122719e-12
+Gradient à pas fixe,660,1.727951e-12,6.843424e-12
+Gradient à pas fixe,661,1.660228e-12,6.575081e-12
+Gradient à pas fixe,662,1.595168e-12,6.317260e-12
+Gradient à pas fixe,663,1.532552e-12,6.069549e-12
+Gradient à pas fixe,664,1.472600e-12,5.831550e-12
+Gradient à pas fixe,665,1.414646e-12,5.602885e-12
+Gradient à pas fixe,666,1.359357e-12,5.383185e-12
+Gradient à pas fixe,667,1.306066e-12,5.172101e-12
+Gradient à pas fixe,668,1.254774e-12,4.969293e-12
+Gradient à pas fixe,669,1.205480e-12,4.774438e-12
+Gradient à pas fixe,670,1.158407e-12,4.587223e-12
+Gradient à pas fixe,671,1.112888e-12,4.407350e-12
+Gradient à pas fixe,672,1.069367e-12,4.234530e-12
+Gradient à pas fixe,673,1.027400e-12,4.068486e-12
+Gradient à pas fixe,674,9.869883e-13,3.908953e-12
+Gradient à pas fixe,675,9.483525e-13,3.755676e-12
+Gradient à pas fixe,676,9.112711e-13,3.608409e-12
+Gradient à pas fixe,677,8.755219e-13,3.466916e-12
+Gradient à pas fixe,678,8.411050e-13,3.330972e-12
+Gradient à pas fixe,679,8.080203e-13,3.200359e-12
+Gradient à pas fixe,680,7.764900e-13,3.074867e-12
+Gradient à pas fixe,681,7.460699e-13,2.954296e-12
+Gradient à pas fixe,682,7.167600e-13,2.838452e-12
+Gradient à pas fixe,683,6.885603e-13,2.727151e-12
+Gradient à pas fixe,684,6.616929e-13,2.620215e-12
+Gradient à pas fixe,685,6.357137e-13,2.517471e-12
+Gradient à pas fixe,686,6.108447e-13,2.418757e-12
+Gradient à pas fixe,687,5.868639e-13,2.323913e-12
+Gradient à pas fixe,688,5.637713e-13,2.232788e-12
+Gradient à pas fixe,689,5.417888e-13,2.145236e-12
+Gradient à pas fixe,690,5.204726e-13,2.061117e-12
+Gradient à pas fixe,691,5.000445e-13,1.980297e-12
+Gradient à pas fixe,692,4.805045e-13,1.902646e-12
+Gradient à pas fixe,693,4.616307e-13,1.828040e-12
+Gradient à pas fixe,694,4.434231e-13,1.756359e-12
+Gradient à pas fixe,695,4.261036e-13,1.687489e-12
+Gradient à pas fixe,696,4.094503e-13,1.621319e-12
+Gradient à pas fixe,697,3.932410e-13,1.557744e-12
+Gradient à pas fixe,698,3.779199e-13,1.496662e-12
+Gradient à pas fixe,699,3.630429e-13,1.437976e-12
+Gradient à pas fixe,700,3.488321e-13,1.381590e-12
+Gradient à pas fixe,701,3.352874e-13,1.327415e-12
+Gradient à pas fixe,702,3.219647e-13,1.275365e-12
+Gradient à pas fixe,703,3.095302e-13,1.225355e-12
+Gradient à pas fixe,704,2.973177e-13,1.177307e-12
+Gradient à pas fixe,705,2.855494e-13,1.131143e-12
+Gradient à pas fixe,706,2.744471e-13,1.086788e-12
+Gradient à pas fixe,707,2.637890e-13,1.044173e-12
+Gradient à pas fixe,708,2.533529e-13,1.003229e-12
+Gradient à pas fixe,709,2.433609e-13,9.638910e-13
+Gradient à pas variable (BLS),0,1.023107e+00,3.000000e+01
+Gradient à pas variable (BLS),1,7.392936e-01,7.729450e+00
+Gradient à pas variable (BLS),2,6.040387e-01,7.282311e+00
+Gradient à pas variable (BLS),3,5.452030e-01,3.203421e+00
+Gradient à pas variable (BLS),4,5.087826e-01,2.099364e+00
+Gradient à pas variable (BLS),5,4.599151e-01,2.510164e+00
+Gradient à pas variable (BLS),6,4.346142e-01,1.568323e+00
+Gradient à pas variable (BLS),7,4.024671e-01,2.394784e+00
+Gradient à pas variable (BLS),8,3.815809e-01,1.364979e+00
+Gradient à pas variable (BLS),9,3.590211e-01,2.570561e+00
+Gradient à pas variable (BLS),10,3.441982e-01,9.100964e-01
+Gradient à pas variable (BLS),11,3.074270e-01,3.032078e+00
+Gradient à pas variable (BLS),12,2.909420e-01,7.628646e-01
+Gradient à pas variable (BLS),13,2.735246e-01,1.120792e+00
+Gradient à pas variable (BLS),14,2.625755e-01,7.179507e-01
+Gradient à pas variable (BLS),15,2.481381e-01,1.208853e+00
+Gradient à pas variable (BLS),16,2.377092e-01,7.048445e-01
+Gradient à pas variable (BLS),17,2.260906e-01,1.382230e+00
+Gradient à pas variable (BLS),18,2.181051e-01,4.977585e-01
+Gradient à pas variable (BLS),19,1.969988e-01,1.643059e+00
+Gradient à pas variable (BLS),20,1.879718e-01,4.463549e-01
+Gradient à pas variable (BLS),21,1.731772e-01,2.044702e+00
+Gradient à pas variable (BLS),22,1.623907e-01,4.151063e-01
+Gradient à pas variable (BLS),23,1.538136e-01,6.891162e-01
+Gradient à pas variable (BLS),24,1.477087e-01,4.112937e-01
+Gradient à pas variable (BLS),25,1.405604e-01,7.837080e-01
+Gradient à pas variable (BLS),26,1.359792e-01,2.988832e-01
+Gradient à pas variable (BLS),27,1.227938e-01,9.290478e-01
+Gradient à pas variable (BLS),28,1.176297e-01,2.708349e-01
+Gradient à pas variable (BLS),29,1.079599e-01,1.151436e+00
+Gradient à pas variable (BLS),30,1.018253e-01,2.521568e-01
+Gradient à pas variable (BLS),31,9.639002e-02,4.027545e-01
+Gradient à pas variable (BLS),32,9.267770e-02,2.481460e-01
+Gradient à pas variable (BLS),33,8.807150e-02,4.516000e-01
+Gradient à pas variable (BLS),34,8.440394e-02,2.524393e-01
+Gradient à pas variable (BLS),35,8.150283e-02,1.886628e-01
+Gradient à pas variable (BLS),36,7.503903e-02,8.449358e-01
+Gradient à pas variable (BLS),37,7.057388e-02,1.756856e-01
+Gradient à pas variable (BLS),38,6.684255e-02,2.866990e-01
+Gradient à pas variable (BLS),39,6.425495e-02,1.755687e-01
+Gradient à pas variable (BLS),40,6.113973e-02,3.319233e-01
+Gradient à pas variable (BLS),41,5.854247e-02,1.820421e-01
+Gradient à pas variable (BLS),42,5.651031e-02,1.332363e-01
+Gradient à pas variable (BLS),43,5.339506e-02,1.972902e-01
+Gradient à pas variable (BLS),44,5.143836e-02,1.311592e-01
+Gradient à pas variable (BLS),45,4.878122e-02,2.244992e-01
+Gradient à pas variable (BLS),46,4.684747e-02,1.334899e-01
+Gradient à pas variable (BLS),47,4.468091e-02,2.682776e-01
+Gradient à pas variable (BLS),48,4.313846e-02,9.492988e-02
+Gradient à pas variable (BLS),49,3.907670e-02,3.155493e-01
+Gradient à pas variable (BLS),50,3.734447e-02,8.618237e-02
+Gradient à pas variable (BLS),51,3.436630e-02,3.840262e-01
+Gradient à pas variable (BLS),52,3.233833e-02,7.996596e-02
+Gradient à pas variable (BLS),53,3.062327e-02,1.298470e-01
+Gradient à pas variable (BLS),54,2.944600e-02,8.037135e-02
+Gradient à pas variable (BLS),55,2.802068e-02,1.525792e-01
+Gradient à pas variable (BLS),56,2.712749e-02,5.892655e-02
+Gradient à pas variable (BLS),57,2.447027e-02,1.771288e-01
+Gradient à pas variable (BLS),58,2.348239e-02,5.317805e-02
+Gradient à pas variable (BLS),59,2.147351e-02,2.133423e-01
+Gradient à pas variable (BLS),60,2.033227e-02,4.893966e-02
+Gradient à pas variable (BLS),61,1.922986e-02,7.556380e-02
+Gradient à pas variable (BLS),62,1.851033e-02,4.862336e-02
+Gradient à pas variable (BLS),63,1.758009e-02,8.728047e-02
+Gradient à pas variable (BLS),64,1.686218e-02,5.007264e-02
+Gradient à pas variable (BLS),65,1.628520e-02,3.770635e-02
+Gradient à pas variable (BLS),66,1.500419e-02,1.712021e-01
+Gradient à pas variable (BLS),67,1.410235e-02,3.501318e-02
+Gradient à pas variable (BLS),68,1.335731e-02,5.734660e-02
+Gradient à pas variable (BLS),69,1.284176e-02,3.531666e-02
+Gradient à pas variable (BLS),70,1.222528e-02,6.783231e-02
+Gradient à pas variable (BLS),71,1.182969e-02,2.574871e-02
+Gradient à pas variable (BLS),72,1.067832e-02,7.879965e-02
+Gradient à pas variable (BLS),73,1.024023e-02,2.324978e-02
+Gradient à pas variable (BLS),74,9.372741e-03,9.485434e-02
+Gradient à pas variable (BLS),75,8.866587e-03,2.140663e-02
+Gradient à pas variable (BLS),76,8.387193e-03,3.329431e-02
+Gradient à pas variable (BLS),77,8.072432e-03,2.133616e-02
+Gradient à pas variable (BLS),78,7.669308e-03,3.870928e-02
+Gradient à pas variable (BLS),79,7.354213e-03,2.206560e-02
+Gradient à pas variable (BLS),80,7.101871e-03,1.652192e-02
+Gradient à pas variable (BLS),81,6.553997e-03,7.690666e-02
+Gradient à pas variable (BLS),82,6.150093e-03,1.536680e-02
+Gradient à pas variable (BLS),83,5.827009e-03,2.547208e-02
+Gradient à pas variable (BLS),84,5.600681e-03,1.555791e-02
+Gradient à pas variable (BLS),85,5.334698e-03,3.031078e-02
+Gradient à pas variable (BLS),86,5.158731e-03,1.126089e-02
+Gradient à pas variable (BLS),87,4.661066e-03,3.528728e-02
+Gradient à pas variable (BLS),88,4.465655e-03,1.017922e-02
+Gradient à pas variable (BLS),89,4.092891e-03,4.252314e-02
+Gradient à pas variable (BLS),90,3.866696e-03,9.384804e-03
+Gradient à pas variable (BLS),91,3.658571e-03,1.475639e-02
+Gradient à pas variable (BLS),92,3.520546e-03,9.385495e-03
+Gradient à pas variable (BLS),93,3.346234e-03,1.726007e-02
+Gradient à pas variable (BLS),94,3.207579e-03,9.748895e-03
+Gradient à pas variable (BLS),95,3.097119e-03,7.246486e-03
+Gradient à pas variable (BLS),96,2.863806e-03,3.470469e-02
+Gradient à pas variable (BLS),97,2.682135e-03,6.754521e-03
+Gradient à pas variable (BLS),98,2.542208e-03,1.135441e-02
+Gradient à pas variable (BLS),99,2.442690e-03,6.865106e-03
+Gradient à pas variable (BLS),100,2.328142e-03,1.358771e-02
+Gradient à pas variable (BLS),101,2.249652e-03,4.927631e-03
+Gradient à pas variable (BLS),102,2.034926e-03,1.586553e-02
+Gradient à pas variable (BLS),103,1.947446e-03,4.460779e-03
+Gradient à pas variable (BLS),104,1.787838e-03,1.915748e-02
+Gradient à pas variable (BLS),105,1.686288e-03,4.120398e-03
+Gradient à pas variable (BLS),106,1.596034e-03,6.564201e-03
+Gradient à pas variable (BLS),107,1.535415e-03,4.135292e-03
+Gradient à pas variable (BLS),108,1.460163e-03,7.722024e-03
+Gradient à pas variable (BLS),109,1.399045e-03,4.314738e-03
+Gradient à pas variable (BLS),110,1.350662e-03,3.180518e-03
+Gradient à pas variable (BLS),111,1.276217e-03,4.714923e-03
+Gradient à pas variable (BLS),112,1.229514e-03,3.142532e-03
+Gradient à pas variable (BLS),113,1.166213e-03,5.417429e-03
+Gradient à pas variable (BLS),114,1.119880e-03,3.215114e-03
+Gradient à pas variable (BLS),115,1.068597e-03,6.539996e-03
+Gradient à pas variable (BLS),116,1.031138e-03,2.273130e-03
+Gradient à pas variable (BLS),117,9.346836e-04,7.679199e-03
+Gradient à pas variable (BLS),118,8.926522e-04,2.063580e-03
+Gradient à pas variable (BLS),119,8.220509e-04,9.311229e-03
+Gradient à pas variable (BLS),120,7.729859e-04,1.913262e-03
+Gradient à pas variable (BLS),121,7.320615e-04,3.121795e-03
+Gradient à pas variable (BLS),122,7.038964e-04,1.931830e-03
+Gradient à pas variable (BLS),123,6.700543e-04,3.705541e-03
+Gradient à pas variable (BLS),124,6.484357e-04,1.410166e-03
+Gradient à pas variable (BLS),125,5.851790e-04,4.291925e-03
+Gradient à pas variable (BLS),126,5.613042e-04,1.272141e-03
+Gradient à pas variable (BLS),127,5.134804e-04,5.146739e-03
+Gradient à pas variable (BLS),128,4.859991e-04,1.169382e-03
+Gradient à pas variable (BLS),129,4.596628e-04,1.810107e-03
+Gradient à pas variable (BLS),130,4.424726e-04,1.166516e-03
+Gradient à pas variable (BLS),131,4.203350e-04,2.111578e-03
+Gradient à pas variable (BLS),132,4.031112e-04,1.208052e-03
+Gradient à pas variable (BLS),133,3.892875e-04,9.056401e-04
+Gradient à pas variable (BLS),134,3.592689e-04,4.220011e-03
+Gradient à pas variable (BLS),135,3.371136e-04,8.418867e-04
+Gradient à pas variable (BLS),136,3.194013e-04,1.395657e-03
+Gradient à pas variable (BLS),137,3.070026e-04,8.533556e-04
+Gradient à pas variable (BLS),138,2.924380e-04,1.665446e-03
+Gradient à pas variable (BLS),139,2.827750e-04,6.172850e-04
+Gradient à pas variable (BLS),140,2.555039e-04,1.936656e-03
+Gradient à pas variable (BLS),141,2.447832e-04,5.578289e-04
+Gradient à pas variable (BLS),142,2.243395e-04,2.329704e-03
+Gradient à pas variable (BLS),143,2.119497e-04,5.139750e-04
+Gradient à pas variable (BLS),144,2.005366e-04,8.076798e-04
+Gradient à pas variable (BLS),145,1.929782e-04,5.145348e-04
+Gradient à pas variable (BLS),146,1.834279e-04,9.473189e-04
+Gradient à pas variable (BLS),147,1.758268e-04,5.352373e-04
+Gradient à pas variable (BLS),148,1.697699e-04,3.976065e-04
+Gradient à pas variable (BLS),149,1.570366e-04,1.914333e-03
+Gradient à pas variable (BLS),150,1.470227e-04,3.706493e-04
+Gradient à pas variable (BLS),151,1.393611e-04,6.245743e-04
+Gradient à pas variable (BLS),152,1.338999e-04,3.771968e-04
+Gradient à pas variable (BLS),153,1.276381e-04,7.492060e-04
+Gradient à pas variable (BLS),154,1.233151e-04,2.702730e-04
+Gradient à pas variable (BLS),155,1.115684e-04,8.747119e-04
+Gradient à pas variable (BLS),156,1.067497e-04,2.446899e-04
+Gradient à pas variable (BLS),157,9.802604e-05,1.055614e-03
+Gradient à pas variable (BLS),158,9.243430e-05,2.260175e-04
+Gradient à pas variable (BLS),159,8.749069e-05,3.607567e-04
+Gradient à pas variable (BLS),160,8.416553e-05,2.270917e-04
+Gradient à pas variable (BLS),161,8.004882e-05,4.253987e-04
+Gradient à pas variable (BLS),162,7.669228e-05,2.373065e-04
+Gradient à pas variable (BLS),163,7.403773e-05,1.746234e-04
+Gradient à pas variable (BLS),164,6.996226e-05,2.597944e-04
+Gradient à pas variable (BLS),165,6.739790e-05,1.727176e-04
+Gradient à pas variable (BLS),166,6.393641e-05,2.991021e-04
+Gradient à pas variable (BLS),167,6.138961e-05,1.769512e-04
+Gradient à pas variable (BLS),168,5.859136e-05,3.617908e-04
+Gradient à pas variable (BLS),169,5.652238e-05,1.247510e-04
+Gradient à pas variable (BLS),170,5.125543e-05,4.251500e-04
+Gradient à pas variable (BLS),171,4.893152e-05,1.133039e-04
+Gradient à pas variable (BLS),172,4.508705e-05,5.157414e-04
+Gradient à pas variable (BLS),173,4.237227e-05,1.051118e-04
+Gradient à pas variable (BLS),174,4.013332e-05,1.722308e-04
+Gradient à pas variable (BLS),175,3.858582e-05,1.062660e-04
+Gradient à pas variable (BLS),176,3.673749e-05,2.048468e-04
+Gradient à pas variable (BLS),177,3.554428e-05,7.737575e-05
+Gradient à pas variable (BLS),178,3.208736e-05,2.374563e-04
+Gradient à pas variable (BLS),179,3.076828e-05,6.982964e-05
+Gradient à pas variable (BLS),180,2.816002e-05,2.848843e-04
+Gradient à pas variable (BLS),181,2.664056e-05,6.422023e-05
+Gradient à pas variable (BLS),182,2.519915e-05,9.979104e-05
+Gradient à pas variable (BLS),183,2.425502e-05,6.413600e-05
+Gradient à pas variable (BLS),184,2.304506e-05,1.166466e-04
+Gradient à pas variable (BLS),185,2.209796e-05,6.651809e-05
+Gradient à pas variable (BLS),186,2.133922e-05,4.974071e-05
+Gradient à pas variable (BLS),187,1.970691e-05,2.340615e-04
+Gradient à pas variable (BLS),188,1.847945e-05,4.627397e-05
+Gradient à pas variable (BLS),189,1.751082e-05,7.708310e-05
+Gradient à pas variable (BLS),190,1.682924e-05,4.696601e-05
+Gradient à pas variable (BLS),191,1.603426e-05,9.215837e-05
+Gradient à pas variable (BLS),192,1.550046e-05,3.387654e-05
+Gradient à pas variable (BLS),193,1.401098e-05,1.072788e-04
+Gradient à pas variable (BLS),194,1.341801e-05,3.062892e-05
+Gradient à pas variable (BLS),195,1.230431e-05,1.291469e-04
+Gradient à pas variable (BLS),196,1.161832e-05,2.823948e-05
+Gradient à pas variable (BLS),197,1.099390e-05,4.457763e-05
+Gradient à pas variable (BLS),198,1.057856e-05,2.830410e-05
+Gradient à pas variable (BLS),199,1.005685e-05,5.238556e-05
+Gradient à pas variable (BLS),200,9.638659e-06,2.948771e-05
+Gradient à pas variable (BLS),201,9.306150e-06,2.184277e-05
+Gradient à pas variable (BLS),202,8.614585e-06,1.062674e-04
+Gradient à pas variable (BLS),203,8.059335e-06,2.037952e-05
+Gradient à pas variable (BLS),204,7.640474e-06,3.452084e-05
+Gradient à pas variable (BLS),205,7.340160e-06,2.076768e-05
+Gradient à pas variable (BLS),206,6.998543e-06,4.148480e-05
+Gradient à pas variable (BLS),207,6.759594e-06,1.483458e-05
+Gradient à pas variable (BLS),208,6.118317e-06,4.849144e-05
+Gradient à pas variable (BLS),209,5.851597e-06,1.343814e-05
+Gradient à pas variable (BLS),210,5.376813e-06,5.857194e-05
+Gradient à pas variable (BLS),211,5.066936e-06,1.242219e-05
+Gradient à pas variable (BLS),212,4.796541e-06,1.992598e-05
+Gradient à pas variable (BLS),213,4.613763e-06,1.249676e-05
+Gradient à pas variable (BLS),214,4.388970e-06,2.354026e-05
+Gradient à pas variable (BLS),215,4.204230e-06,1.307918e-05
+Gradient à pas variable (BLS),216,4.058480e-06,9.594763e-06
+Gradient à pas variable (BLS),217,3.835487e-06,1.434409e-05
+Gradient à pas variable (BLS),218,3.694570e-06,9.500510e-06
+Gradient à pas variable (BLS),219,3.505412e-06,1.654489e-05
+Gradient à pas variable (BLS),220,3.365300e-06,9.747188e-06
+Gradient à pas variable (BLS),221,3.212753e-06,2.004719e-05
+Gradient à pas variable (BLS),222,3.098317e-06,6.848463e-06
+Gradient à pas variable (BLS),223,2.810974e-06,2.358790e-05
+Gradient à pas variable (BLS),224,2.682241e-06,6.224197e-06
+Gradient à pas variable (BLS),225,2.473298e-06,2.864233e-05
+Gradient à pas variable (BLS),226,2.322717e-06,5.779338e-06
+Gradient à pas variable (BLS),227,2.200301e-06,9.520830e-06
+Gradient à pas variable (BLS),228,2.115203e-06,5.850448e-06
+Gradient à pas variable (BLS),229,2.014336e-06,1.134412e-05
+Gradient à pas variable (BLS),230,1.948381e-06,4.246825e-06
+Gradient à pas variable (BLS),231,1.759621e-06,1.316776e-05
+Gradient à pas variable (BLS),232,1.686594e-06,3.834896e-06
+Gradient à pas variable (BLS),233,1.544580e-06,1.581485e-05
+Gradient à pas variable (BLS),234,1.460345e-06,3.529650e-06
+Gradient à pas variable (BLS),235,1.381501e-06,5.512802e-06
+Gradient à pas variable (BLS),236,1.329603e-06,3.529243e-06
+Gradient à pas variable (BLS),237,1.263520e-06,6.455762e-06
+Gradient à pas variable (BLS),238,1.211394e-06,3.665842e-06
+Gradient à pas variable (BLS),239,1.169737e-06,2.732779e-06
+Gradient à pas variable (BLS),240,1.081093e-06,1.300261e-05
+Gradient à pas variable (BLS),241,1.012989e-06,2.544717e-06
+Gradient à pas variable (BLS),242,9.600384e-07,4.262489e-06
+Gradient à pas variable (BLS),243,9.225512e-07,2.586248e-06
+Gradient à pas variable (BLS),244,8.791824e-07,5.105086e-06
+Gradient à pas variable (BLS),245,8.496681e-07,1.859484e-06
+Gradient à pas variable (BLS),246,7.683610e-07,5.950772e-06
+Gradient à pas variable (BLS),247,7.355227e-07,1.682267e-06
+Gradient à pas variable (BLS),248,6.749209e-07,7.171617e-06
+Gradient à pas variable (BLS),249,6.368781e-07,1.552341e-06
+Gradient à pas variable (BLS),250,6.027282e-07,2.463434e-06
+Gradient à pas variable (BLS),251,5.798939e-07,1.557815e-06
+Gradient à pas variable (BLS),252,5.514077e-07,2.900147e-06
+Gradient à pas variable (BLS),253,5.283870e-07,1.625456e-06
+Gradient à pas variable (BLS),254,5.101296e-07,1.200192e-06
+Gradient à pas variable (BLS),255,4.726048e-07,5.904608e-06
+Gradient à pas variable (BLS),256,4.417901e-07,1.120897e-06
+Gradient à pas variable (BLS),257,4.188971e-07,1.909424e-06
+Gradient à pas variable (BLS),258,4.023769e-07,1.143822e-06
+Gradient à pas variable (BLS),259,3.837470e-07,2.298595e-06
+Gradient à pas variable (BLS),260,3.705319e-07,8.143299e-07
+Gradient à pas variable (BLS),261,3.355366e-07,2.690463e-06
+Gradient à pas variable (BLS),262,3.207621e-07,7.381559e-07
+Gradient à pas variable (BLS),263,2.949424e-07,3.253288e-06
+Gradient à pas variable (BLS),264,2.777534e-07,6.829560e-07
+Gradient à pas variable (BLS),265,2.629676e-07,1.101445e-06
+Gradient à pas variable (BLS),266,2.529173e-07,6.879283e-07
+Gradient à pas variable (BLS),267,2.406467e-07,1.303558e-06
+Gradient à pas variable (BLS),268,2.330118e-07,5.053705e-07
+Gradient à pas variable (BLS),269,2.100981e-07,1.504693e-06
+Gradient à pas variable (BLS),270,2.016982e-07,4.552918e-07
+Gradient à pas variable (BLS),271,1.842675e-07,1.798895e-06
+Gradient à pas variable (BLS),272,1.746337e-07,4.177129e-07
+Gradient à pas variable (BLS),273,1.651262e-07,6.393256e-07
+Gradient à pas variable (BLS),274,1.589876e-07,4.157672e-07
+Gradient à pas variable (BLS),275,1.509729e-07,7.435360e-07
+Gradient à pas variable (BLS),276,1.448364e-07,4.293939e-07
+Gradient à pas variable (BLS),277,1.398851e-07,3.239786e-07
+Gradient à pas variable (BLS),278,1.289037e-07,1.476300e-06
+Gradient à pas variable (BLS),279,1.211337e-07,3.005744e-07
+Gradient à pas variable (BLS),280,1.147345e-07,4.927612e-07
+Gradient à pas variable (BLS),281,1.103093e-07,3.039255e-07
+Gradient à pas variable (BLS),282,1.050277e-07,5.862378e-07
+Gradient à pas variable (BLS),283,1.016137e-07,2.212283e-07
+Gradient à pas variable (BLS),284,9.173479e-08,6.796210e-07
+Gradient à pas variable (BLS),285,8.796012e-08,1.996620e-07
+Gradient à pas variable (BLS),286,8.050827e-08,8.153970e-07
+Gradient à pas variable (BLS),287,7.615987e-08,1.836331e-07
+Gradient à pas variable (BLS),288,7.203997e-08,2.854787e-07
+Gradient à pas variable (BLS),289,6.934027e-08,1.834198e-07
+Gradient à pas variable (BLS),290,6.588250e-08,3.337903e-07
+Gradient à pas variable (BLS),291,6.317390e-08,1.902696e-07
+Gradient à pas variable (BLS),292,6.100446e-08,1.422341e-07
+Gradient à pas variable (BLS),293,5.634286e-08,6.701426e-07
+Gradient à pas variable (BLS),294,5.282904e-08,1.323334e-07
+Gradient à pas variable (BLS),295,5.006075e-08,2.205768e-07
+Gradient à pas variable (BLS),296,4.811156e-08,1.343358e-07
+Gradient à pas variable (BLS),297,4.584013e-08,2.637829e-07
+Gradient à pas variable (BLS),298,4.431259e-08,9.686058e-08
+Gradient à pas variable (BLS),299,4.005646e-08,3.071009e-07
+Gradient à pas variable (BLS),300,3.835932e-08,8.758040e-08
+Gradient à pas variable (BLS),301,3.517804e-08,3.697330e-07
+Gradient à pas variable (BLS),302,3.321441e-08,8.075452e-08
+Gradient à pas variable (BLS),303,3.142976e-08,1.275489e-07
+Gradient à pas variable (BLS),304,3.024204e-08,8.095215e-08
+Gradient à pas variable (BLS),305,2.875123e-08,1.499285e-07
+Gradient à pas variable (BLS),306,2.755515e-08,8.435441e-08
+Gradient à pas variable (BLS),307,2.660439e-08,6.246178e-08
+Gradient à pas variable (BLS),308,2.462975e-08,3.042953e-07
+Gradient à pas variable (BLS),309,2.304004e-08,5.828396e-08
+Gradient à pas variable (BLS),310,2.184301e-08,9.879415e-08
+Gradient à pas variable (BLS),311,2.098412e-08,5.940477e-08
+Gradient à pas variable (BLS),312,2.000812e-08,1.187530e-07
+Gradient à pas variable (BLS),313,1.932427e-08,4.241623e-08
+Gradient à pas variable (BLS),314,1.749198e-08,1.388307e-07
+Gradient à pas variable (BLS),315,1.672852e-08,3.842627e-08
+Gradient à pas variable (BLS),316,1.537248e-08,1.677094e-07
+Gradient à pas variable (BLS),317,1.448535e-08,3.552468e-08
+Gradient à pas variable (BLS),318,1.371257e-08,5.702041e-08
+Gradient à pas variable (BLS),319,1.318985e-08,3.574383e-08
+Gradient à pas variable (BLS),320,1.254755e-08,6.737990e-08
+Gradient à pas variable (BLS),321,1.201913e-08,3.741742e-08
+Gradient à pas variable (BLS),322,1.160237e-08,2.743799e-08
+Gradient à pas variable (BLS),323,1.096503e-08,4.104581e-08
+Gradient à pas variable (BLS),324,1.056205e-08,2.717244e-08
+Gradient à pas variable (BLS),325,1.002151e-08,4.735503e-08
+Gradient à pas variable (BLS),326,9.620764e-09,2.788322e-08
+Gradient à pas variable (BLS),327,9.184986e-09,5.739258e-08
+Gradient à pas variable (BLS),328,8.857446e-09,1.958219e-08
+Gradient à pas variable (BLS),329,8.036511e-09,6.754030e-08
+Gradient à pas variable (BLS),330,7.667980e-09,1.779875e-08
+Gradient à pas variable (BLS),331,7.071335e-09,8.202333e-08
+Gradient à pas variable (BLS),332,6.640186e-09,1.652857e-08
+Gradient à pas variable (BLS),333,6.290342e-09,2.724832e-08
+Gradient à pas variable (BLS),334,6.046962e-09,1.673485e-08
+Gradient à pas variable (BLS),335,5.758777e-09,3.247425e-08
+Gradient à pas variable (BLS),336,5.570017e-09,1.214285e-08
+Gradient à pas variable (BLS),337,5.030667e-09,3.770131e-08
+Gradient à pas variable (BLS),338,4.821627e-09,1.096587e-08
+Gradient à pas variable (BLS),339,4.416002e-09,4.528663e-08
+Gradient à pas variable (BLS),340,4.174832e-09,1.009408e-08
+Gradient à pas variable (BLS),341,3.949498e-09,1.577610e-08
+Gradient à pas variable (BLS),342,3.801078e-09,1.009452e-08
+Gradient à pas variable (BLS),343,3.612250e-09,1.847908e-08
+Gradient à pas variable (BLS),344,3.463156e-09,1.048733e-08
+Gradient à pas variable (BLS),345,3.344041e-09,7.814809e-09
+Gradient à pas variable (BLS),346,3.090943e-09,3.723732e-08
+Gradient à pas variable (BLS),347,2.895936e-09,7.277924e-09
+Gradient à pas variable (BLS),348,2.744616e-09,1.219968e-08
+Gradient à pas variable (BLS),349,2.637400e-09,7.398027e-09
+Gradient à pas variable (BLS),350,2.513497e-09,1.461469e-08
+Gradient à pas variable (BLS),351,2.429025e-09,5.316836e-09
+Gradient à pas variable (BLS),352,2.196714e-09,1.703873e-08
+Gradient à pas variable (BLS),353,2.102709e-09,4.810516e-09
+Gradient à pas variable (BLS),354,1.929630e-09,2.053726e-08
+Gradient à pas variable (BLS),355,1.820707e-09,4.439483e-09
+Gradient à pas variable (BLS),356,1.723109e-09,7.049997e-09
+Gradient à pas variable (BLS),357,1.657805e-09,4.455868e-09
+Gradient à pas variable (BLS),358,1.576411e-09,8.301799e-09
+Gradient à pas variable (BLS),359,1.510563e-09,4.650294e-09
+Gradient à pas variable (BLS),360,1.458357e-09,3.432193e-09
+Gradient à pas variable (BLS),361,1.377947e-09,5.083602e-09
+Gradient à pas variable (BLS),362,1.327551e-09,3.391602e-09
+Gradient à pas variable (BLS),363,1.259181e-09,5.844125e-09
+Gradient à pas variable (BLS),364,1.209178e-09,3.470647e-09
+Gradient à pas variable (BLS),365,1.153796e-09,7.059349e-09
+Gradient à pas variable (BLS),366,1.113361e-09,2.454102e-09
+Gradient à pas variable (BLS),367,1.009183e-09,8.285500e-09
+Gradient à pas variable (BLS),368,9.638312e-10,2.227555e-09
+Gradient à pas variable (BLS),369,8.875325e-10,1.004084e-08
+Gradient à pas variable (BLS),370,8.346202e-10,2.064771e-09
+Gradient à pas variable (BLS),371,7.904171e-10,3.366901e-09
+Gradient à pas variable (BLS),372,7.600229e-10,2.085169e-09
+Gradient à pas variable (BLS),373,7.234735e-10,3.998829e-09
+Gradient à pas variable (BLS),374,7.001424e-10,1.522396e-09
+Gradient à pas variable (BLS),375,6.318159e-10,4.629332e-09
+Gradient à pas variable (BLS),376,6.060619e-10,1.373178e-09
+Gradient à pas variable (BLS),377,5.543761e-10,5.547803e-09
+Gradient à pas variable (BLS),378,5.247500e-10,1.261916e-09
+Gradient à pas variable (BLS),379,4.963032e-10,1.951795e-09
+Gradient à pas variable (BLS),380,4.777536e-10,1.259000e-09
+Gradient à pas variable (BLS),381,4.538436e-10,2.278149e-09
+Gradient à pas variable (BLS),382,4.352549e-10,1.304132e-09
+Gradient à pas variable (BLS),383,4.203302e-10,9.778613e-10
+Gradient à pas variable (BLS),384,3.879208e-10,4.557442e-09
+Gradient à pas variable (BLS),385,3.639955e-10,9.089463e-10
+Gradient à pas variable (BLS),386,3.448704e-10,1.506868e-09
+Gradient à pas variable (BLS),387,3.314842e-10,9.215125e-10
+Gradient à pas variable (BLS),388,3.157612e-10,1.799010e-09
+Gradient à pas variable (BLS),389,3.053242e-10,6.665144e-10
+Gradient à pas variable (BLS),390,2.758802e-10,2.091571e-09
+Gradient à pas variable (BLS),391,2.643028e-10,6.022877e-10
+Gradient à pas variable (BLS),392,2.422271e-10,2.515324e-09
+Gradient à pas variable (BLS),393,2.288507e-10,5.548816e-10
+Gradient à pas variable (BLS),394,2.165266e-10,8.718831e-10
+Gradient à pas variable (BLS),395,2.083667e-10,5.555819e-10
+Gradient à pas variable (BLS),396,1.980558e-10,1.023099e-09
+Gradient à pas variable (BLS),397,1.898484e-10,5.780796e-10
+Gradient à pas variable (BLS),398,1.833083e-10,4.293858e-10
+Gradient à pas variable (BLS),399,1.695699e-10,2.069225e-09
+Gradient à pas variable (BLS),400,1.587470e-10,4.002813e-10
+Gradient à pas variable (BLS),401,1.504761e-10,6.747884e-10
+Gradient à pas variable (BLS),402,1.445781e-10,4.074406e-10
+Gradient à pas variable (BLS),403,1.378202e-10,8.097674e-10
+Gradient à pas variable (BLS),404,1.331486e-10,2.918562e-10
+Gradient à pas variable (BLS),405,1.204696e-10,9.454039e-10
+Gradient à pas variable (BLS),406,1.152625e-10,2.642345e-10
+Gradient à pas variable (BLS),407,1.058478e-10,1.140820e-09
+Gradient à pas variable (BLS),408,9.980550e-11,2.440708e-10
+Gradient à pas variable (BLS),409,9.446821e-11,3.897014e-10
+Gradient à pas variable (BLS),410,9.087753e-11,2.452782e-10
+Gradient à pas variable (BLS),411,8.643397e-11,4.597154e-10
+Gradient à pas variable (BLS),412,8.280865e-11,2.563775e-10
+Gradient à pas variable (BLS),413,7.994205e-11,1.886010e-10
+Gradient à pas variable (BLS),414,7.554246e-11,2.807607e-10
+Gradient à pas variable (BLS),415,7.277290e-11,1.865758e-10
+Gradient à pas variable (BLS),416,6.903678e-11,3.233507e-10
+Gradient à pas variable (BLS),417,6.628564e-11,1.911941e-10
+Gradient à pas variable (BLS),418,6.326650e-11,3.912519e-10
+Gradient à pas variable (BLS),419,6.102985e-11,1.347267e-10
+Gradient à pas variable (BLS),420,5.534662e-11,4.598328e-10
+Gradient à pas variable (BLS),421,5.283374e-11,1.223741e-10
+Gradient à pas variable (BLS),422,4.868728e-11,5.578581e-10
+Gradient à pas variable (BLS),423,4.575140e-11,1.135376e-10
+Gradient à pas variable (BLS),424,4.333467e-11,1.861705e-10
+Gradient à pas variable (BLS),425,4.166312e-11,1.148090e-10
+Gradient à pas variable (BLS),426,3.966871e-11,2.215017e-10
+Gradient à pas variable (BLS),427,3.837886e-11,8.356027e-11
+Gradient à pas variable (BLS),428,3.464806e-11,2.567981e-10
+Gradient à pas variable (BLS),429,3.322187e-11,7.541608e-11
+Gradient à pas variable (BLS),430,3.040812e-11,3.081141e-10
+Gradient à pas variable (BLS),431,2.876499e-11,6.936369e-11
+Gradient à pas variable (BLS),432,2.720912e-11,1.078543e-10
+Gradient à pas variable (BLS),433,2.618927e-11,6.928621e-11
+Gradient à pas variable (BLS),434,2.488365e-11,1.261151e-10
+Gradient à pas variable (BLS),435,2.386047e-11,7.187773e-11
+Gradient à pas variable (BLS),436,2.304090e-11,5.372532e-11
+Gradient à pas variable (BLS),437,2.128098e-11,2.532334e-10
+Gradient à pas variable (BLS),438,1.995315e-11,4.998730e-11
+Gradient à pas variable (BLS),439,1.890776e-11,8.333728e-11
+Gradient à pas variable (BLS),440,1.817146e-11,5.074624e-11
+Gradient à pas variable (BLS),441,1.731371e-11,9.966770e-11
+Gradient à pas variable (BLS),442,1.673661e-11,3.658537e-11
+Gradient à pas variable (BLS),443,1.512923e-11,1.160409e-10
+Gradient à pas variable (BLS),444,1.448797e-11,3.308090e-11
+Gradient à pas variable (BLS),445,1.328671e-11,1.397127e-10
+Gradient à pas variable (BLS),446,1.254485e-11,3.050358e-11
+Gradient à pas variable (BLS),447,1.187095e-11,4.818876e-11
+Gradient à pas variable (BLS),448,1.142220e-11,3.057963e-11
+Gradient à pas variable (BLS),449,1.085931e-11,5.664771e-11
+Gradient à pas variable (BLS),450,1.040745e-11,3.186665e-11
+Gradient à pas variable (BLS),451,1.004841e-11,2.359345e-11
+Gradient à pas variable (BLS),452,9.302781e-12,1.149880e-10
+Gradient à pas variable (BLS),453,8.702150e-12,2.201618e-11
+Gradient à pas variable (BLS),454,8.250067e-12,3.732631e-11
+Gradient à pas variable (BLS),455,7.925660e-12,2.244070e-11
+Gradient à pas variable (BLS),456,7.557066e-12,4.487004e-11
+Gradient à pas variable (BLS),457,7.298606e-12,1.602115e-11
+Gradient à pas variable (BLS),458,6.606715e-12,5.245890e-11
+Gradient à pas variable (BLS),459,6.318279e-12,1.451444e-11
+Gradient à pas variable (BLS),460,5.806244e-12,6.337366e-11
+Gradient à pas variable (BLS),461,5.470957e-12,1.341889e-11
+Gradient à pas variable (BLS),462,5.179190e-12,2.154288e-11
+Gradient à pas variable (BLS),463,4.981793e-12,1.350230e-11
+Gradient à pas variable (BLS),464,4.739098e-12,2.545849e-11
+Gradient à pas variable (BLS),465,4.539480e-12,1.413533e-11
+Gradient à pas variable (BLS),466,4.382050e-12,1.036409e-11
+Gradient à pas variable (BLS),467,4.141354e-12,1.550706e-11
+Gradient à pas variable (BLS),468,3.989253e-12,1.026421e-11
+Gradient à pas variable (BLS),469,3.785194e-12,1.789188e-11
+Gradient à pas variable (BLS),470,3.633760e-12,1.053326e-11
+Gradient à pas variable (BLS),471,3.469225e-12,2.168568e-11
+Gradient à pas variable (BLS),472,3.345324e-12,7.396473e-12
+Gradient à pas variable (BLS),473,3.035350e-12,2.552124e-11
+Gradient à pas variable (BLS),474,2.896128e-12,6.723018e-12
+Gradient à pas variable (BLS),475,2.670975e-12,3.099512e-11
+Gradient à pas variable (BLS),476,2.507994e-12,6.243459e-12
+Gradient à pas variable (BLS),477,2.375877e-12,1.029484e-11
+Gradient à pas variable (BLS),478,2.283951e-12,6.321691e-12
+Gradient à pas variable (BLS),479,2.175149e-12,1.227008e-11
+Gradient à pas variable (BLS),480,2.103651e-12,4.586492e-12
+Gradient à pas variable (BLS),481,1.900036e-12,1.424582e-11
+Gradient à pas variable (BLS),482,1.820988e-12,4.142030e-12
+Gradient à pas variable (BLS),483,1.667999e-12,1.711275e-11
+Gradient à pas variable (BLS),484,1.576739e-12,3.812856e-12
+Gradient à pas variable (BLS),485,1.491696e-12,5.960315e-12
+Gradient à pas variable (BLS),486,1.435740e-12,3.813195e-12
+Gradient à pas variable (BLS),487,1.364464e-12,6.981984e-12
+Gradient à pas variable (BLS),488,1.308065e-12,3.961801e-12
+Gradient à pas variable (BLS),489,1.262990e-12,2.951853e-12
+Gradient à pas variable (BLS),490,1.167511e-12,1.407137e-11
+Gradient à pas variable (BLS),491,1.093792e-12,2.749158e-12
+Gradient à pas variable (BLS),492,1.036726e-12,4.609265e-12
+Gradient à pas variable (BLS),493,9.960921e-13,2.794666e-12
+Gradient à pas variable (BLS),494,9.492407e-13,5.522057e-12
+Gradient à pas variable (BLS),495,9.174883e-13,2.008235e-12
+Gradient à pas variable (BLS),496,8.297807e-13,6.438297e-12
+Gradient à pas variable (BLS),497,7.942536e-13,1.817034e-12
+Gradient à pas variable (BLS),498,7.287504e-13,7.760589e-12
+Gradient à pas variable (BLS),499,6.876721e-13,1.676942e-12
+Gradient à pas variable (BLS),500,6.508127e-13,2.663556e-12
+Gradient à pas variable (BLS),501,6.261658e-13,1.683209e-12
+Gradient à pas variable (BLS),502,5.955236e-13,3.136707e-12
+Gradient à pas variable (BLS),503,5.706546e-13,1.756755e-12
+Gradient à pas variable (BLS),504,5.508927e-13,1.296432e-12
+Gradient à pas variable (BLS),505,5.102585e-13,6.390165e-12
+Gradient à pas variable (BLS),506,4.769518e-13,1.210982e-12
+Gradient à pas variable (BLS),507,4.523049e-13,2.064860e-12
+Gradient à pas variable (BLS),508,4.345413e-13,1.236040e-12
+Gradient à pas variable (BLS),509,4.143352e-13,2.486440e-12
+Gradient à pas variable (BLS),510,4.001244e-13,8.794837e-13
+Newton et gradient conjugué,0,1.023107e+00,3.000000e+01
+Newton et gradient conjugué,1,0.000000e+00,1.787263e-30
+Quasi-Newton BFGS,0,1.023107e+00,3.000000e+01
+Quasi-Newton BFGS,1,8.253532e-01,3.560530e+01
+Quasi-Newton BFGS,2,6.648437e-01,1.919275e+01
+Quasi-Newton BFGS,3,6.216518e-01,3.195232e+01
+Quasi-Newton BFGS,4,5.601107e-01,2.482492e+01
+Quasi-Newton BFGS,5,4.912151e-01,1.989157e+01
+Quasi-Newton BFGS,6,4.208054e-01,1.620916e+01
+Quasi-Newton BFGS,7,3.552660e-01,1.365079e+01
+Quasi-Newton BFGS,8,3.003957e-01,1.203862e+01
+Quasi-Newton BFGS,9,2.586614e-01,1.091268e+01
+Quasi-Newton BFGS,10,2.283105e-01,9.780419e+00
+Quasi-Newton BFGS,11,2.052343e-01,8.441611e+00
+Quasi-Newton BFGS,12,1.854026e-01,6.999108e+00
+Quasi-Newton BFGS,13,1.659496e-01,5.650832e+00
+Quasi-Newton BFGS,14,1.450575e-01,4.538554e+00
+Quasi-Newton BFGS,15,1.217324e-01,3.729247e+00
+Quasi-Newton BFGS,16,9.645949e-02,3.242965e+00
+Quasi-Newton BFGS,17,7.281519e-02,3.017531e+00
+Quasi-Newton BFGS,18,5.666034e-02,2.803988e+00
+Quasi-Newton BFGS,19,4.935281e-02,2.321333e+00
+Quasi-Newton BFGS,20,4.581168e-02,1.692634e+00
+Quasi-Newton BFGS,21,4.189338e-02,1.213924e+00
+Quasi-Newton BFGS,22,3.618320e-02,9.309417e-01
+Quasi-Newton BFGS,23,2.733362e-02,7.652364e-01
+Quasi-Newton BFGS,24,1.525685e-02,6.997765e-01
+Quasi-Newton BFGS,25,8.881673e-03,7.309410e-01
+Quasi-Newton BFGS,26,5.142714e-03,2.796590e-01
+Quasi-Newton BFGS,27,4.142021e-03,2.246668e-01
+Quasi-Newton BFGS,28,3.758485e-03,2.129850e-01
+Quasi-Newton BFGS,29,2.909819e-03,1.759910e-01
+Quasi-Newton BFGS,30,1.752456e-03,1.453853e-01
+Quasi-Newton BFGS,31,1.636334e-03,9.544810e-02
+Quasi-Newton BFGS,32,1.531154e-03,7.904775e-02
+Quasi-Newton BFGS,33,9.714916e-04,6.193435e-02
+Quasi-Newton BFGS,34,7.940389e-04,4.657645e-02
+Quasi-Newton BFGS,35,2.284068e-09,1.037178e-07
+Quasi-Newton BFGS,36,1.075739e-11,1.852753e-10
+Quasi-Newton BFGS,37,2.242651e-14,8.790891e-13
