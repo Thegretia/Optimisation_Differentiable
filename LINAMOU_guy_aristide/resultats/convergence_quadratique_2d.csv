@@ -1,0 +1,47 @@
+methode,iteration,f_moins_f_etoile,norme_gradient_carre
+Gradient à pas fixe,0,5.768182e+01,3.060000e+02
+Gradient à pas fixe,1,5.885900e+00,3.122449e+01
+Gradient à pas fixe,2,6.006020e-01,3.186172e+00
+Gradient à pas fixe,3,6.128592e-02,3.251196e-01
+Gradient à pas fixe,4,6.253665e-03,3.317547e-02
+Gradient à pas fixe,5,6.381291e-04,3.385252e-03
+Gradient à pas fixe,6,6.511522e-05,3.454339e-04
+Gradient à pas fixe,7,6.644410e-06,3.524836e-05
+Gradient à pas fixe,8,6.780010e-07,3.596771e-06
+Gradient à pas fixe,9,6.918378e-08,3.670175e-07
+Gradient à pas fixe,10,7.059569e-09,3.745076e-08
+Gradient à pas fixe,11,7.203641e-10,3.821506e-09
+Gradient à pas fixe,12,7.350653e-11,3.899496e-10
+Gradient à pas fixe,13,7.500778e-12,3.979078e-11
+Gradient à pas fixe,14,7.653878e-13,4.060284e-12
+Gradient à pas fixe,15,7.815970e-14,4.143147e-13
+Gradient à pas variable (BLS),0,5.768182e+01,3.060000e+02
+Gradient à pas variable (BLS),1,8.463068e+00,4.106250e+01
+Gradient à pas variable (BLS),2,1.361506e+00,6.503906e+00
+Gradient à pas variable (BLS),3,2.222235e-01,1.059082e+00
+Gradient à pas variable (BLS),4,3.634852e-02,1.731720e-01
+Gradient à pas variable (BLS),5,5.947286e-03,2.833271e-02
+Gradient à pas variable (BLS),6,9.731298e-04,4.635930e-03
+Gradient à pas variable (BLS),7,1.592303e-04,7.585622e-04
+Gradient à pas variable (BLS),8,2.605438e-05,1.241213e-04
+Gradient à pas variable (BLS),9,4.263204e-06,2.030961e-05
+Gradient à pas variable (BLS),10,6.975758e-07,3.323204e-06
+Gradient à pas variable (BLS),11,1.141423e-07,5.437662e-07
+Gradient à pas variable (BLS),12,1.867678e-08,8.897491e-08
+Gradient à pas variable (BLS),13,3.056028e-09,1.455871e-08
+Gradient à pas variable (BLS),14,5.000490e-10,2.382200e-09
+Gradient à pas variable (BLS),15,8.182155e-11,3.897925e-10
+Gradient à pas variable (BLS),16,1.338818e-11,6.378062e-11
+Gradient à pas variable (BLS),17,2.190581e-12,1.043624e-11
+Gradient à pas variable (BLS),18,3.584910e-13,1.707652e-12
+Gradient à pas variable (BLS),19,5.861978e-14,2.794182e-13
+Newton et gradient conjugué,0,5.768182e+01,3.060000e+02
+Newton et gradient conjugué,1,0.000000e+00,7.888609e-31
+Quasi-Newton BFGS,0,5.768182e+01,3.060000e+02
+Quasi-Newton BFGS,1,1.380682e+01,1.192500e+02
+Quasi-Newton BFGS,2,5.927563e+00,2.987339e+01
+Quasi-Newton BFGS,3,7.290064e-01,3.658648e+00
+Quasi-Newton BFGS,4,2.428327e-04,2.225913e-03
+Quasi-Newton BFGS,5,4.019632e-07,3.595600e-06
+Quasi-Newton BFGS,6,1.686207e-12,8.124520e-12
+Quasi-Newton BFGS,7,-1.110223e-16,1.811323e-16
